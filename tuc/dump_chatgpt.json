@@ -1,0 +1,674 @@
+{
+    "personal": [
+        {
+            "title": "Utbildningsledare:",
+            "name": "IT-säkerhetsspecialist",
+            "work_placement": "Stockholm",
+            "responsabilities": [
+                "08-515 118 43"
+            ],
+            "email_adress": "aysen.furhoff@tucsweden.se"
+        },
+        {
+            "name": "Camilla Synndergren",
+            "responsabilities": [
+                "Camilla Synnergren",
+                "Spec. utbildad usk psykiatri",
+                "Stödpedagog",
+                "08-515 118 46"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Stockholm",
+            "email_adress": "camilla.synnergren@tucsweden.se"
+        },
+        {
+            "name": "Christina Myhre Tonelli",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Logistiker",
+                "Tullspecialist",
+                "08-515 118 53"
+            ],
+            "work_placement": "Stockholm",
+            "email_adress": "christina.tonelli@tucsweden.se"
+        },
+        {
+            "name": "Linda Hilding",
+            "responsabilities": [
+                "Linda Hilding",
+                "Data Manager",
+                "Redovisningsekonom",
+                "08-515 118 58"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Stockholm",
+            "email_adress": "linda.hilding@tucsweden.se"
+        },
+        {
+            "name": "Malin Brattström",
+            "responsabilities": [
+                "Malin Brattström",
+                "Tandsköterska",
+                "08-515 118 57"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Stockholm",
+            "email_adress": "malin.brattstrom@tucsweden.se"
+        },
+        {
+            "name": "Marie Dalmalm",
+            "responsabilities": [
+                "Marie Dalmalm",
+                "Samordnande utbildningsledare",
+                "08-515 118 54"
+            ],
+            "title": "Utbildningsledare",
+            "work_placement": "Stockholm",
+            "email_adress": "marie.dalmalm@tucsweden.se"
+        },
+        {
+            "name": "Martina Gynther",
+            "responsabilities": [
+                "Martina Gynther",
+                "Verksamhetsansvarig: Stockholm, Skellefteå",
+                "08-515 118 51"
+            ],
+            "email_adress": "martina.gynther@tucsweden.se"
+        },
+        {
+            "name": "Niklas Lind",
+            "responsabilities": [
+                "Niklas Lind",
+                "Arbetsledare inom måltidsservice",
+                "08-515 118 55"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Stockholm",
+            "email_adress": "niklas.lind@tucsweden.se"
+        },
+        {
+            "name": "Sara-Mari Eriksson",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Elkonstruktör",
+                "Apotekstekniker (Stockholm)",
+                "08-515 118 49"
+            ],
+            "work_placement": "Skellefteå",
+            "email_adress": "sara-mari.eriksson@tucsweden.se"
+        },
+        {
+            "name": "Jönköping",
+            "responsabilities": [
+                "Andreas Dufva Johansson",
+                "Andreas Dufva Johansson",
+                "Verksamhetsansvarig: Jönköping, Helsingborg, Lidköping",
+                "036-333 64 00"
+            ],
+            "email_adress": "andreas.dufva.johansson@tucsweden.se"
+        },
+        {
+            "name": "Ashtar Michael",
+            "responsabilities": [
+                "Ashtar Michael",
+                "Offentlig upphandlare/inköpare",
+                "Redovisningsekonom",
+                "036-333 64 05"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "ashtar.michael@tucsweden.se"
+        },
+        {
+            "name": "Charlotta Larsson",
+            "responsabilities": [
+                "Charlotta Larsson",
+                "Optikerassistent",
+                "Technical Sales Manager",
+                "036-333 64 06"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "charlotta.larsson@tucsweden.se"
+        },
+        {
+            "name": "Evelina Stamborg",
+            "responsabilities": [
+                "Evelina Stamborg",
+                "Samordnande utbildningsledare",
+                "036-333 64 08"
+            ],
+            "work_placement": "Jönköping",
+            "email_adress": "evelina.stamborg@tucsweden.se"
+        },
+        {
+            "name": "Helena Fag",
+            "responsabilities": [
+                "Helena Fag",
+                "Utbildningssamordnare",
+                "036-333 64 09"
+            ],
+            "work_placement": "Jönköping",
+            "email_adress": "helena.fag@tucsweden.se"
+        },
+        {
+            "name": "Johanna Elmqvist",
+            "responsabilities": [
+                "Johanna Elmqvist",
+                "Digital marknadsföringsspecialist",
+                "Specialistundersköterska, psykiatri",
+                "036-333 64 18"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "johanna.elmqvist@tucsweden.se"
+        },
+        {
+            "name": "Justina Velin",
+            "responsabilities": [
+                "Justina Velin",
+                "Rekryterings- & bemanningsspecialist",
+                "036-333 64 19"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "justina.velin@tucsweden.se"
+        },
+        {
+            "name": "Personporträtt Maria Kobli",
+            "responsabilities": [
+                "Maria Kobli",
+                "Administratör & utbildningsledare:",
+                "Urmakare",
+                "Specialistundersköterska, palliativ vård",
+                "Specialistundersköterska, vård & omsorg av äldre",
+                "0141-10 11 51"
+            ],
+            "work_placement": "Motala",
+            "email_adress": "maria.kobli@tucsweden.se"
+        },
+        {
+            "name": "Marios Gergess",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "VVS-ingenjör",
+                "036-333 64 24"
+            ],
+            "work_placement": "Jönköping",
+            "email_adress": "marios.gergess@tucsweden.se"
+        },
+        {
+            "name": "Peter Lilja",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "CAD-konstruktör inom mekanik",
+                "El- & drifttekniker inom kraft- & värmeproduktion",
+                "Mätningstekniker",
+                "036-333 64 10"
+            ],
+            "work_placement": "Jönköping",
+            "email_adress": "peter.lilja@tucsweden.se"
+        },
+        {
+            "name": "Pia Nurro",
+            "responsabilities": [
+                "Pia Hultin",
+                "Lönespecialist",
+                "036-333 64 11"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "pia.hultin@tucsweden.se"
+        },
+        {
+            "name": "Sara Ståhlkrantz",
+            "responsabilities": [
+                "Sara Ståhlkrantz",
+                "036-333 64 26"
+            ],
+            "title": "Utbildningsledare",
+            "work_placement": "Jönköping",
+            "email_adress": "sara.stahlkrantz@tucsweden.se"
+        },
+        {
+            "name": "Sara Söderlind",
+            "responsabilities": [
+                "Sara Söderlind",
+                "Hotel & Restaurant Manager",
+                "036-333 64 20"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "sara.soderlind@tucsweden.se"
+        },
+        {
+            "name": "Sofia Romedahl",
+            "responsabilities": [
+                "Sofia Romedahl",
+                "E-commerce Manager",
+                "Solenergiprojektör",
+                "036-333 64 25"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "sofia.romedahl@tucsweden.se"
+        },
+        {
+            "name": "Tomas Mörk Johannesson",
+            "responsabilities": [
+                "Tomas Mörk Johannesson",
+                "Behandlingspedagog/socialpedagog",
+                "036-333 64 21"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Jönköping",
+            "email_adress": "tomas.mork.johannesson@tucsweden.se"
+        },
+        {
+            "name": "Vasilis Sintridis",
+            "responsabilities": [
+                "Vasilis Sintridis",
+                "Teamledare",
+                "036-333 64 22"
+            ],
+            "work_placement": "Jönköping",
+            "email_adress": "vasilis.sintridis@tucsweden.se"
+        },
+        {
+            "name": "Linköping",
+            "responsabilities": [
+                "Anna Engström",
+                "Anna Engström",
+                "Key Account Manager",
+                "Logistiker",
+                "013-344 12 77"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "anna.engstrom@tucsweden.se"
+        },
+        {
+            "name": "Anna-Sofia Kauvo",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Medicintekniker",
+                "013-344 12 66"
+            ],
+            "work_placement": "Linköping",
+            "email_adress": "anna-sofia.kauvo@tucsweden.se"
+        },
+        {
+            "name": "Carina Andersson Franzén",
+            "responsabilities": [
+                "Carina Andersson Franzén",
+                "CAD-konstruktör inom mekanik",
+                "Elkonstruktör",
+                "013-344 12 68"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "carina.andersson.franzen@tucsweden.se"
+        },
+        {
+            "name": "Cecilia Mårtensson",
+            "responsabilities": [
+                "Cecilia Mårtensson",
+                "Verksamhetsansvarig: Linköping och Urmakarskolan",
+                "013-344 12 50"
+            ],
+            "email_adress": "cecilia.martensson@tucsweden.se"
+        },
+        {
+            "name": "Charlotte Persson",
+            "responsabilities": [
+                "Charlotte Persson",
+                "Redovisningsekonom",
+                "013-344 12 76"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "charlotte.persson@tucsweden.se"
+        },
+        {
+            "name": "Elin Persson",
+            "responsabilities": [
+                "Elin Persson",
+                "Drifttekniker inom fastighet",
+                "Samordnare inom KMA",
+                "013-344 12 58"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "elin.persson@tucsweden.se"
+        },
+        {
+            "name": "Fredrik Wahlbom",
+            "responsabilities": [
+                "Fredrik Wahlbom",
+                "Teamledare",
+                "013-344 12 52"
+            ],
+            "work_placement": "Linköping",
+            "email_adress": "fredrik.wahlbom@tucsweden.se"
+        },
+        {
+            "name": "Göran Wiggur",
+            "responsabilities": [
+                "Göran Wiggur",
+                "Underhållstekniker",
+                "013-344 12 53"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "goran.wiggur@tucsweden.se"
+        },
+        {
+            "name": "Jimmy Broman",
+            "responsabilities": [
+                "Jimmy Broman",
+                "Digital innehållsproducent",
+                "UX-designer",
+                "013-344 12 80"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "jimmy.broman@tucsweden.se"
+        },
+        {
+            "name": "Kicki Sundberg",
+            "responsabilities": [
+                "Kicki Sundberg",
+                "Systemutvecklare .NET",
+                "UX-designer",
+                "013-344 12 57"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "kicki.sundberg@tucsweden.se"
+        },
+        {
+            "name": "Maria Ocakli Beurling",
+            "responsabilities": [
+                "Maria Ocakli Beurling",
+                "IT-säkerhetstekniker",
+                "Nätverkstekniker",
+                "013-344 12 60"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "maria.beurling@tucsweden.se"
+        },
+        {
+            "name": "Oskar Ericson",
+            "responsabilities": [
+                "Oskar Ericson",
+                "Samordnande utbildningsledare",
+                "Socialpedagog",
+                "013-344 12 64"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Linköping",
+            "email_adress": "oskar.ericson@tucsweden.se"
+        },
+        {
+            "name": "Pontus Frick",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Fastighetsförvaltare",
+                "013-344 12 73"
+            ],
+            "work_placement": "Linköping",
+            "email_adress": "pontus.frick@tucsweden.se"
+        },
+        {
+            "name": "Åsa Larsson",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Account Manager",
+                "013-344 12 75"
+            ],
+            "work_placement": "Linköping",
+            "email_adress": "asa.larsson@tucsweden.se"
+        },
+        {
+            "name": "Tranås",
+            "responsabilities": [
+                "Caroline Jacobson",
+                "Spec. utbildad usk demensvård",
+                "Tandsköterska",
+                "0140-44 45 26"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Tranås",
+            "email_adress": "caroline.jacobson@tucsweden.se"
+        },
+        {
+            "name": "Porträttbild i svartvitt av utbildningsledare Emma Moberg",
+            "responsabilities": [
+                "Emma Moberg",
+                "Stödpedagog",
+                "0140-44 45 39"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Tranås",
+            "email_adress": "emma.moberg@tucsweden.se"
+        },
+        {
+            "name": "Jonny Lundborg",
+            "responsabilities": [
+                "Jonny Lundborg",
+                "Kyl- och värmepumpstekniker",
+                "0140-44 45 17"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Tranås",
+            "email_adress": "jonny.lundborg@tucsweden.se"
+        },
+        {
+            "name": "Lotten Asp",
+            "responsabilities": [
+                "Lotten Asp",
+                "Företagssäljare B2B",
+                "0140-44 45 16"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Tranås",
+            "email_adress": "lotten.asp@tucsweden.se"
+        },
+        {
+            "name": "Lotten Golander",
+            "responsabilities": [
+                "Lotten Golander",
+                "Medicinsk fotterapeut",
+                "Spec. utbildad usk demensvård",
+                "0140-44 45 33"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Tranås",
+            "email_adress": "charlotte.golander@tucsweden.se"
+        },
+        {
+            "name": "Maude Svensson",
+            "responsabilities": [
+                "Ambulerande utbildningssamordnare",
+                "0140-44 45 46"
+            ],
+            "work_placement": "Tranås",
+            "email_adress": "maude.svensson@tucsweden.se"
+        },
+        {
+            "name": "Petter Dahlgren",
+            "responsabilities": [
+                "Petter Dahlgren",
+                "Verksamhetsansvarig: Tranås",
+                "0140-44 45 40"
+            ],
+            "email_adress": "petter.dahlgren@tucsweden.se"
+        },
+        {
+            "name": "Sandra Fritz",
+            "responsabilities": [
+                "Sandra Fritz",
+                "Samordnande utbildningsledare",
+                "Tandsköterska (distans)",
+                "0140-44 45 41"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Tranås",
+            "email_adress": "sandra.fritz@tucsweden.se"
+        },
+        {
+            "name": "Sara Ring",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Automationsingenjör",
+                "Energiingenjör",
+                "0140-44 45 43"
+            ],
+            "work_placement": "Tranås",
+            "email_adress": "sara.ring@tucsweden.se"
+        },
+        {
+            "name": "Helsingborg",
+            "responsabilities": [
+                "Andreas Dufva Johansson",
+                "Andreas Dufva Johansson",
+                "Verksamhetsansvarig: Jönköping, Helsingborg, Lidköping",
+                "036-333 64 00"
+            ],
+            "email_adress": "andreas.dufva.johansson@tucsweden.se"
+        },
+        {
+            "name": "Cecilia Engfelt",
+            "responsabilities": [
+                "Cecilia Engfelt",
+                "IoT-projektör trådlösa nät",
+                "Optikerassistent",
+                "0140-44 45 25"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Helsingborg",
+            "email_adress": "cecilia.engfelt@tucsweden.se"
+        },
+        {
+            "name": "Emma Kjellin",
+            "responsabilities": [
+                "Emma Kjellin",
+                "Redovisningsekonom",
+                "0140-44 45 23"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Helsingborg",
+            "email_adress": "emma.kjellin@tucsweden.se"
+        },
+        {
+            "name": "Madelene Larneby står i kontorsmiljö och tittar in i kameran",
+            "responsabilities": [
+                "Madelene Larneby",
+                "Apotekstekniker",
+                "0140-44 45 35"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Helsingborg",
+            "email_adress": "madelene.larneby@tucsweden.se"
+        },
+        {
+            "name": "Veronica Eriksen Rantzow",
+            "responsabilities": [
+                "Veronica Eriksen Rantzow",
+                "Data Manager",
+                "036-333 64 28"
+            ],
+            "title": "Utbildningsledare för:",
+            "work_placement": "Helsingborg",
+            "email_adress": "veronica.eriksen.rantzow@tucsweden.se"
+        },
+        {
+            "name": "Lidköping",
+            "responsabilities": [
+                "Andreas Dufva Johansson",
+                "Andreas Dufva Johansson",
+                "Verksamhetsansvarig: Jönköping, Helsingborg, Lidköping",
+                "036-333 64 00"
+            ],
+            "email_adress": "andreas.dufva.johansson@tucsweden.se"
+        },
+        {
+            "name": "Johanna Broberg",
+            "responsabilities": [
+                "Johanna Broberg",
+                "Socialpedagog",
+                "Redovisningsekonom",
+                "0510-77 09 38"
+            ],
+            "title": "Utbildningsledare:",
+            "work_placement": "Lidköping",
+            "email_adress": "johanna.broberg@edu.lidkoping.se"
+        },
+        {
+            "name": "Motala",
+            "responsabilities": [
+                "Cecilia Mårtensson",
+                "Cecilia Mårtensson",
+                "Verksamhetsansvarig: Linköping och Urmakarskolan",
+                "013-344 12 50"
+            ],
+            "email_adress": "cecilia.martensson@tucsweden.se"
+        },
+        {
+            "name": "Hanna Paasikoski",
+            "responsabilities": [
+                "Hanna Paasikoski",
+                "Administratör & utbildningsledare",
+                "(föräldraledig)",
+                "0141-10 11 51"
+            ],
+            "work_placement": "Motala",
+            "email_adress": "hanna.paasikoski@urmakarskolan.com"
+        },
+        {
+            "name": "Personporträtt Maria Kobli",
+            "responsabilities": [
+                "Maria Kobli",
+                "Administratör & utbildningsledare:",
+                "Urmakare",
+                "Specialistundersköterska, palliativ vård",
+                "Specialistundersköterska, vård & omsorg av äldre",
+                "0141-10 11 51"
+            ],
+            "work_placement": "Motala",
+            "email_adress": "maria.kobli@tucsweden.se"
+        },
+        {
+            "name": "Skellefteå",
+            "responsabilities": [
+                "Martina Gynther",
+                "Martina Gynther",
+                "Verksamhetsansvarig: Stockholm, Skellefteå",
+                "08-515 118 51"
+            ],
+            "email_adress": "martina.gynther@tucsweden.se"
+        },
+        {
+            "name": "Patrik Ström",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Redovisningsekonom",
+                "08-515 118 47"
+            ],
+            "work_placement": "Skellefteå",
+            "email_adress": "patrik.strom@tucsweden.se"
+        },
+        {
+            "name": "Sara-Mari Eriksson",
+            "title": "Utbildningsledare:",
+            "responsabilities": [
+                "Elkonstruktör",
+                "Apotekstekniker (Stockholm)",
+                "08-515 118 49"
+            ],
+            "work_placement": "Skellefteå",
+            "email_adress": "sara-mari.eriksson@tucsweden.se"
+        }
+    ]
+}
