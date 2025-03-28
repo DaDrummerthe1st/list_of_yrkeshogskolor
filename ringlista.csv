@@ -1,0 +1,1218 @@
+,company_name,count,address,postal_code,city,email,phone_number,course_name
+0,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Advanced Software Developer Embedded Systems
+1,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Affärsutvecklare besöksnäring
+2,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Anläggningsingenjör hållbart byggande
+3,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Arbetsledare – Hållbar grönyteförvaltning
+4,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Arbetsledare – Utemiljö
+5,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Arbetsledning inom ytbehandling
+6,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Behandlingspedagog
+7,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Betongingenjör
+8,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,BI-Analyst med AI-kompetens
+9,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,BIM-samordnare
+10,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Bygglovshandläggare
+11,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Byggnadsfysik inom träbyggnation
+12,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Byggnadsingenjör Energi och ROT
+13,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Cirkulärt återbruk inom samhällsbyggnad
+14,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Cloud Native Computing
+15,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,CNC-tekniker med Additiv tillverkning
+16,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Drift- och fastighetstekniker
+17,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Electric Driveline
+18,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Electric Powertrain Engineering
+19,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Electric Propulsion Technologies
+20,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,"Elingenjör - Fastighet, industri och järnväg"
+21,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Elnätsspecialist inom Reläskydd
+22,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Elnätsspecialist inom Ställverk och Transformatorteknik
+23,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Fastighetsförvaltare
+24,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Fukttekniker
+25,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Gastronomiledare - framtidens mat och protein
+26,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Hotel Supervisor
+27,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Hållbar Produktionsutveckling Industri 4.0
+28,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Instrument och steriltekniker
+29,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Instrument- och steriltekniker
+30,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Kvalitetsledning och Livsmedelssäkerhet i produktion
+31,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Kvalitetsutveckling hållbara fordonsverkstäder
+32,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Köttförädlare
+33,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Laborant
+34,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Miljösanerare samhällsbyggnad
+35,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Mobilitetstekniker – Hållbara drivmedel
+36,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Platschef Samhällsbyggnad
+37,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Power grids - smarta elnät
+38,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Processoperatör för hållbar produktion
+39,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Programmering och utveckling av inbyggda system
+40,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Projektör Infrastruktur
+41,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,QHSE-Manager
+42,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Robot och automationsprogrammerare
+43,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Socialpedagog
+44,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Specialistundersköterska med Neuropsykiatrikompetens
+45,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Systemutvecklare .NET
+46,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Systemutvecklare Java
+47,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Tandsköterska
+48,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Tekniker i hållbara verkstadsmiljöer
+49,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Tekniker tunga maskiner och fordon
+50,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,TRAC Turism- och Resekonsult
+51,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,TRAC Turism- och Resekonsult
+52,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Trafiklärare
+53,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Träbyggnadsprojektör hållbart byggande
+54,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,UAS fjärrpilot och operatör inom kategori specifik
+55,YH Akademin AB,56,Box 127,79123,Falun,yh@ya.se,023-585 00,Ytbehandlingsspecialist
+56,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Account Manager
+57,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Apotekstekniker
+58,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Arbetsledare inom måltidsservice
+59,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Automationsingenjör inom drift och service
+60,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Behandlingspedagog
+61,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,CAD-konstruktör inom mekanik
+62,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Data Manager
+63,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Digital innehållsproducent
+64,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Digital marknadsföringsspecialist
+65,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Drifttekniker inom fastighet
+66,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,El och drifttekniker inom kraft- och värmeproduktion
+67,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Elkonstruktör
+68,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Energiingenjör
+69,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Företagssäljare B2B
+70,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Hotel & Restaurant Manager
+71,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,IOT - projektör trådlösa nät
+72,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,IT-projektledare
+73,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,IT-säkerhetsspecialist
+74,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,IT-säkerhetstekniker
+75,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Kyl- och värmepumpstekniker
+76,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Logistiker
+77,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Lönespecialist
+78,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Medicinsk Fotterapeut
+79,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Medicintekniker
+80,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Nätverkstekniker
+81,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Offentlig upphandlare/inköpare
+82,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Optikerassistent
+83,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Optikerassistent med klinisk inriktning
+84,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Produktionstekniker
+85,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Redovisningsekonom
+86,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Rekryterings- och bemanningsspecialist
+87,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,"Samordnare KMA - Kvalitet, Miljö & Arbetsmiljö"
+88,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Socialpedagog
+89,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Specialistundersköterska - Palliativ vård
+90,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Specialistundersköterska inom psykiatri
+91,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Specialistundersköterska inom vård och omsorg av äldre
+92,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Specialistutbildad undersköterska - Demensvård
+93,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Specialistutbildad undersköterska - Psykiatri
+94,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Stödpedagog
+95,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Stödpedagog inom funktionshinderområdet
+96,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Symtomlindring palliativ vård
+97,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Systemutvecklare .NET
+98,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Tandsköterska
+99,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Technical Sales Manager
+100,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Tullspecialist
+101,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Underhållstekniker
+102,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,UX-Designer
+103,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,Webbutvecklare
+104,TUC Sweden AB - Yrkeshögskola,49,Hamnparken 2,57335,Tranås,info@tucsweden.se,0140-444510,VVS-ingenjör
+105,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,"3D-modellering i Blender, Grund"
+106,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,"Administratör inom vård, omsorg och funktionsstöd"
+107,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Anläggningsdykare - Commercial Diver
+108,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Apotekstekniker
+109,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Arkitekturvisualisering
+110,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Art Director & Copywriter
+111,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Automationsingenjör mekatronik
+112,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Bagare och konditor
+113,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Bank- och försäkringsrådgivare
+114,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Byggingenjör hållbart byggande
+115,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Byggingenjör produktion
+116,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Byggprojektör BIM
+117,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,CAD-konstruktör - Mechanical Designer
+118,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Computer Graphics Design - Produktvisualisering
+119,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Digital Designer
+120,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Ekonomi- och redovisningskonsult
+121,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Elektronikingenjör autonoma system
+122,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Elektronikingenjör inbyggda system
+123,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Event Marketing & Management
+124,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Game Creator Artist
+125,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Game Creator Programmer
+126,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Hospitality Management
+127,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Hotel Supervisor
+128,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Hållbarhetsutvecklare
+129,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Industrial Technical Artist
+130,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Instrumentingenjör
+131,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Internationell affärsinriktad logistiker och speditör
+132,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Internationell miljöinriktad speditör
+133,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,IP grafisk produktion och form
+134,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Java Enterprise Utvecklare
+135,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Köksmästare
+136,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Logistik- och transportledare
+137,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Medicinsk fotterapeut
+138,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Offentlig inköpare
+139,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Paralegal
+140,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Producent film och TV-drama
+141,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Reserådgivare
+142,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Sommelier
+143,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Specialistundersköterska akutsjukvård
+144,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,"Specialistundersköterska anestesi, operation och intensivvård"
+145,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Specialistundersköterska barn-och ungdomssjukvård
+146,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Specialistundersköterska inom vård och omsorg av äldre
+147,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Specialistundersköterska psykiatri
+148,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Stödpedagog
+149,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,"Säkerhetssamordning - möten, evenemang och upplevelser"
+150,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Undersköterska/Stödassistent med specialistkompetens inom välfärdsteknologi
+151,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,UX Designer
+152,"Göteborgs Stad, Yrgo",48,Box 8855,40272,Göteborg,katarina.hjernestam@educ.goteborg.se,031-3673100,Webbutvecklare
+153,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Arbetsledare bygg och anläggning
+154,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,BIM verktyg: Punktmolnsmodellering och Virtual Reality
+155,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,BIM-verktyg: Parametrisk design och programmering
+156,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Business Intelligence-analytiker
+157,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Byggnadsingenjör BIM
+158,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Byggnadsingenjör digitalt byggande
+159,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Byggnadsingenjör hållbart byggande
+160,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Byggnadsingenjör Infrastruktur
+161,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Byggnadsingenjör mark och vatten
+162,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Byggnadsingenjör ROT
+163,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Cirkulärt byggande och återbruk
+164,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Cloud Fundamentals
+165,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Cyber Security
+166,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Data Engineer
+167,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,DevOps Engineer
+168,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Elingenjör konstruktion
+169,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Elkraftsingenjör
+170,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Energiingenjör
+171,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Frontend-utvecklare
+172,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,IT-infrastrukturspecialist
+173,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,IT-säkerhetstekniker
+174,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Javautvecklare
+175,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Järnvägsingenjör
+176,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Kalkyl och inköp - resurseffektiv byggprocess
+177,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,"Mjukvaruutvecklare, Inbyggda system och IoT"
+178,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,MLOps Engineer
+179,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,OT-säkerhet
+180,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,OT-säkerhetsingenjör
+181,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Programutvecklare .NET
+182,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Pythonutvecklare inom AI
+183,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Robotic Process Automation
+184,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Social Media Manager
+185,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Spelanimatör
+186,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Tandsköterska
+187,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Teknisk 3D artist inom spel
+188,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Underhållsingenjör infrastruktur
+189,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,UX-designer
+190,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,VA-projektör
+191,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Webbutvecklare .NET
+192,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Webbutvecklare fullstack open source
+193,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Virtual Reality-utvecklare
+194,Nackademin AB,42,Tomtebodavägen 3a,17165,Solna,info@nackademin.se,08-4666000,Välfärdsteknik inom vård och omsorg
+195,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,.NET Utvecklare
+196,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Anläggningsingenjör järnväg
+197,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Anläggningsingenjör väg och vatten
+198,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Automationsingenjör
+199,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Automationsingenjör robotik
+200,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Batteritekniker
+201,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Bygg- och anläggningsledare
+202,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Byggprojektledare - Hållbar byggnation
+203,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,CAD-ingenjör processindustri
+204,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,CAD-konstruktör inom mekanik
+205,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Data Center Technician
+206,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Distributionselektriker
+207,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Drift- och underhållstekniker vätgas
+208,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Elektronikingenjör
+209,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Elkraftsingenjör
+210,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Elnätsprojektör
+211,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Fullstackutvecklare - inriktning Java Script
+212,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Green Logistics Management
+213,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Ingenjör AI och maskininlärning
+214,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,IT-säkerhetsspecialist
+215,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Ljud- och musikproducent
+216,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Mätningsingenjör
+217,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Mätningsingenjör Järnväg
+218,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Processoperatör Livsmedel
+219,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Processoperatör sågverks- och pappersindustri
+220,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Processtekniker biogas
+221,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Projektutvecklare förnybar energi
+222,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Pythonutvecklare inriktning AI
+223,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Technical Sales Manager
+224,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,"Transportledare, grön logistik"
+225,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,Utvecklingsingenjör Electromobility
+226,Plushögskolan AB - Teknikhögskolan,32,Anders Personsgatan 14,41664,Göteborg,info@teknikhogskolan.se,0774-100 500,VVS-ingenjör
+227,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Ambulanssjukvårdare
+228,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Apotekstekniker
+229,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Automationstekniker - drift och underhåll av digitala produktionssystem
+230,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Automationstekniker träindustri
+231,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Beredare elkraft
+232,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Bygglovshandläggare
+233,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Certifierad CNC-tekniker
+234,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Certifierad produktionstekniker
+235,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Cloud & ICT Engineer
+236,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,DevOps Engineer
+237,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Elkraftsingenjör
+238,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Fiber- och nätverkstekniker
+239,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Internationell vindkraftstekniker
+240,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Kvalitetssamordnare inom industriell tillverkning
+241,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Kyl- och värmepumpstekniker
+242,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Medicinsk vårdadministratör
+243,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Mejeritekniker
+244,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Projektledare inom installationsbranschen
+245,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,"Specialistundersköterska inom anestesi, operation och intensivvård"
+246,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Specialistundersköterska inom laboratoriemedicin
+247,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Specialistundersköterska inom psykiatri
+248,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Systemingenjör industri 4.0
+249,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Systemutvecklare i Java och JavaScript
+250,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Underhållsingenjör
+251,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Underhållstekniker el och automation
+252,Lernia Utbildning AB,26,Box 787,80129,Gävle,yh@lernia.se,0771-650650,Ventilationsingenjör
+253,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Account Manager Digital Solutions
+254,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Affärsstödjande hållbarhetsanalys
+255,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,AI-driven hållbarhetsutveckling
+256,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,AI-driven marknadsföring och kommunikation
+257,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Cirkulär affärsutveckling
+258,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Customer Experience Management
+259,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Customer Insights & Engagement
+260,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Data Storytelling & Visualization
+261,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Datamodellering & BI-plattformar
+262,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Digital & Social Selling
+263,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Digital Analytics Specialist
+264,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Digital Marketing Specialist
+265,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Digitalisering och hållbarhet inom HR
+266,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Digitalisering och hållbarhet inom redovisning
+267,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,E-Commerce B2B
+268,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,E-Commerce Supply & Demand Chain
+269,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Ekonomi- och redovisningskonsult
+270,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,International Account Manager
+271,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Konceptutvecklare Event och Besöksnäring
+272,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Martech & Demand Generation
+273,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Public Bid Manager
+274,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Revenue Management för besöksnäringen
+275,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Social Commerce
+276,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Social media marketing
+277,IHM Business School AB Göteborg,25,Box 5273,40225,Göteborg,maria.dagermo@ihm.se,031-335 20 00,Visual Merchandiser - Unified Commerce
+278,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Artificiell Intelligens/Maskininlärning - Databaser och Pythonprogrammering
+279,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Blockchainutvecklare
+280,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Digital Analytics
+281,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Digital Content Designer
+282,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Digital Kommunikatör - SoMe
+283,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Digital Marketing Manager
+284,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Front End Developer
+285,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Fullstack Developer
+286,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Förändringskommunikation
+287,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Lagar och regler för kommunikatörer och marknadsförare
+288,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Marketing Automation
+289,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Marknadskoordinator
+290,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Martech Operations
+291,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Mjukvarutestning
+292,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Onlinemarknadsförare
+293,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Podcastproduktion
+294,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Professional Video Editor
+295,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Social Media Marketing
+296,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Systemutvecklare.NET
+297,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Sökmarknadsföring - nya förutsättningar för marknadsförare
+298,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,UX-Designer
+299,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Webbkommunikatör Sociala Medier
+300,Medieinstitutet i Sverige AB,23,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Webbutvecklare inom e-handel
+301,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,"Anläggningsingenjör - infrastruktur, miljö och klimat"
+302,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Arbetsledare Anläggning
+303,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Automation för fastigheter
+304,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Automationstekniker
+305,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Bygglovshandläggare
+306,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Byggnadsingenjör - klimat och konstruktion
+307,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Byggnadsingenjör Glas och Fasad
+308,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Byggproduktionsledare ROT
+309,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Cybersäkerhet inom kritisk infrastruktur
+310,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Fastighetsingenjör
+311,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Front End Developer
+312,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,"Installationsingenjör solel, lagring och laddning"
+313,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,IT-säkerhetsanalytiker SOC
+314,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,KMA-samordnare
+315,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Miljösamordnare Hållbara Byggnader
+316,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Processtekniker smart industri
+317,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Projektledare Solenergi
+318,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Schaktfritt ledningsbyggande
+319,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Systemutvecklare DevSecOps
+320,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,Vindkrafttekniker On- & Offshore
+321,KYH AB,21,Årstaängsvägen 33,11743,Stockholm,emma.ackerskold@kyh.se,076-5266935,VVS-ingenjör
+322,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Automationsingenjör
+323,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,BIM-projektering Byggnad
+324,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,BIM-projektering Infrastruktur
+325,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Cybersäkerhet
+326,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Data Engineer
+327,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,El- och belysningsdesigner
+328,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Elnätsdesigner
+329,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Hybridutveckling med Flutter
+330,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Hållbarhetsledare Samhällsbyggnad
+331,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,IAM - Identity and Access Management
+332,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Infrastrukturprojektör BIM
+333,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Järnvägsprojektering
+334,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Järnvägsprojektör (EST)
+335,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Projektledare Elinstallation
+336,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Projektledare Elkraft
+337,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,Systemutvecklare Inbyggda system (Internet of Things)
+338,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,UX-designer
+339,Stiftelsen Stockholms Tekniska Institut,18,Liljeholmstorget 7,11763,Stockholm,yh@sti.se,08-54583580,VVS-ingenjör
+340,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Apotekstekniker
+341,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Butiksledare inom handel och dagligvaror
+342,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Hotel Management
+343,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,IT och cybersäkerhetsspecialist
+344,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,IT-testspecialist
+345,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Juridik inom hälso-och sjukvård för vårdadministrativ personal
+346,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Läkemedelstekniker
+347,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Löneekonom - inriktning systemkunskap
+348,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Medicinsk sekreterare
+349,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Medicinsk vårdadministratör
+350,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Offentlig upphandlare
+351,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Produktionsledare film och tv-produktion
+352,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Redovisningskonsult
+353,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Reserådgivare
+354,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Specialistundersköterska inom perioperativ medicin och intensivvård
+355,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,"Teater-, Event- & Scentekniker"
+356,"Stockholms stad, Frans Schartaus Handelsinstitut",17,Box 17804,11894,Stockholm,info.schartau@edu.stockholm.se,850840200,Visual Merchandiser
+357,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Automationsingenjör
+358,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Elkonstruktör
+359,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Elkraftingenjör
+360,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Equiterapeut
+361,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Fibertekniker
+362,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Kvalificerad signaltekniker
+363,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Medicinsk vårdadministratör
+364,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Musik- och eventarrangör
+365,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Odlare - företagande och innovation
+366,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Projektledare Elteknik
+367,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Socialpedagog
+368,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Specialistundersköterska - demens
+369,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Stödpedagog inom funktionshinderområdet
+370,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Systemutvecklare .NET
+371,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Tandsköterska
+372,Campus Nyköping,16,Nyköping,61183,Nyköping,campus@nykoping.se,0155-248785,Trafiklärare
+373,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,"Besiktningsman, bygg och fastighet"
+374,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Bygglovshandläggare / Byggnadsinspektör
+375,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Digital transformationsledare
+376,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Drift- och fastighetstekniker
+377,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Elkraftsingenjör
+378,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Elteknikingenjör
+379,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Energiingenjör
+380,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Fastighetsförvaltare
+381,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Fastighetsförvaltare med digital kompetens
+382,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Fastighetsingenjör inriktning energi
+383,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Geotekniker
+384,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Järnvägsingenjör
+385,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Laddinfrastrukturingenjör
+386,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,"Miljö- och hållbarhetssamordnare, bygg och fastighet"
+387,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,VA-ingenjör
+388,John Ericsson Institutet,16,Tulegatan 41,11352,Stockholm,linda.sahin@elevera.org,08-4429500,Återbruk och cirkularitet inom bygg & fastighet
+389,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,3D-printtekniker
+390,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Automationsingenjör - Robot
+391,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Automationsingenjör-Mjukvara
+392,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Byggproduktionsledare
+393,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Elektroniktekniker
+394,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Elkraftingenjör
+395,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Elprojektör
+396,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Fastighetsingenjör
+397,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Javautvecklare
+398,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Platschef - Bygg och anläggning
+399,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Produktionsutveckling
+400,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Servicetekniker i fält – mobila arbetsmaskiner
+401,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Svetsspecialist - IWS och svetskontrollant
+402,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,VA-projektör
+403,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Webbutvecklare .NET
+404,Tekniska Högskolan i Jönköping AB,16,"Att: Mats Kihlman, Box 1026",55111,Jönköping,mats.kihlman@ju.se,036-101000,Värdeskapande logistik
+405,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Applikationsingenjör mot industri/fordonsbranschen
+406,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Automations- och Robotingenjör med Industri 4.0
+407,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Byggnadsingenjör BIM/CAD
+408,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,E-mobility-ingenjör
+409,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Energispecialist
+410,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Internationell affärslogistiker - Green management
+411,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Produktionstekniker inriktning livsmedel
+412,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Redovisningsekonom
+413,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Stödpedagog inom funktionshinderområdet
+414,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Technical Account Manager
+415,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Trädgårdsmästare inriktning arbetsledning
+416,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,Ventilationstekniker
+417,Hermods AB Göteborg,13,Norra Ågatan 10 B,41664,Göteborg,yh@hermods.se,08-41025100,VVS-ingenjör inriktning energi
+418,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Account Manager – Hållbar Försäljning
+419,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Akustikkonsult
+420,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Anläggningsingenjör - infrastruktur
+421,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Byggnadsingenjör - produktion
+422,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Byggnadsingenjör - ROT
+423,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Dagvatteningenjör
+424,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,E-mobility-ingenjör
+425,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Green Urban Developer
+426,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Projektingenjör Järnväg
+427,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Trädgårdsmästare inriktning hållbarhet
+428,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,VA-ingenjör
+429,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Ventilationstekniker
+430,Hermods AB Stockholm,13,Drottningholmsvägen 37,11242,Stockholm,yh@hermods.se,08-41025100,Vätgasingenjör
+431,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,.NET-utvecklare med molninriktning
+432,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,AI Developer
+433,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,DevOps Engineer
+434,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Drifttekniker
+435,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Frontendutvecklare
+436,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Hovslagare
+437,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,IoT- och embeddedutvecklare
+438,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Javautvecklare med molninriktning
+439,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Serviceingenjör
+440,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Stall- och verksamhetsledare inom hästrelaterade näringar
+441,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Systemutvecklare inriktning säkerhet
+442,JENSEN Education School AB,12,Box 11124,10061,Stockholm,info@jensenyrkeshogskola.se,737731974,Systemutvecklare med testinriktning
+443,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Implementering av välfärdsteknik inom vård och omsorg
+444,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Palliativ vård
+445,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Psykisk ohälsa hos barn och unga
+446,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Psykisk ohälsa hos äldre
+447,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,"Psykisk ohälsa, suicid och suicidprevention"
+448,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Specialistundersköterska inom vård och omsorg av äldre
+449,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Specialistundersköterska multisjuka äldre
+450,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Specialistundersköterska Psykiatri
+451,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Stödpedagog
+452,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Stödpedagog inom funktionshinderområdet
+453,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Vård och omsorg vid demenssjukdom/kognitiv sjukdom
+454,KompetensUtvecklingsInstitutet Sverige AB,12,Tanneforsgatan 8,58224,Linköping,yrkeshogskola@kui.se,08-52250680,Vårdhygien och vårdrelaterade infektioner
+455,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,.NET Cloud Developer
+456,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,.NET-utvecklare
+457,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,Frontend-utvecklare
+458,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,IT-Säkerhetsspecialist
+459,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,JavaScript-utvecklare
+460,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,Javautvecklare
+461,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,Mjukvarutestare med testautomation
+462,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,Molnutveckling med Azure
+463,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,Pythonprogrammering för AI-utveckling
+464,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,Utvecklare inom AI & Maskininlärning
+465,IT-Högskolan Sverige AB,11,Ebbe Lieberathsgatan 18C,41265,Göteborg,info@iths.se,031-7904255,UX-designer
+466,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Arbetsledarutbildning för sågverks och pappersindustrin
+467,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Avancerad GIS-användare
+468,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Existentiell hälsa i palliativ vård
+469,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,"Hälsa, prevention och rehabilitering"
+470,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Läke- och livsmedelstekniker
+471,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Medicinsk vårdadministratör
+472,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Moln- och virtualiseringstekniker
+473,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Optikerassistent med specialisering inom ögonhälsa
+474,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Projektör Järnväg
+475,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,"Servicetekniker, inriktning life science"
+476,Folkuniversitetet - Stiftelsen Kursverksamheten vid Uppsala universitet,11,Bergsbrunnagatan 1,75323,Uppsala,info.uppsala@folkuniversitetet.se,018-680000,Tandsköterska
+477,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,3D-tekniker
+478,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Dokumentcontroller / registrator
+479,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Elkonstruktör
+480,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Fastighetsförvaltare
+481,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Hiss- och rulltrappstekniker
+482,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Livesändningsspecialist
+483,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Marin servicetekniker
+484,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Redigerare - Postproduktion
+485,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,Trafiklärare
+486,Xenter Yrkeshögskola,10,Botkyrka kommun,14785,Tumba,Info@xenter.se,08-530 623 70,VFX-artist
+487,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Account Manager
+488,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,B2B-säljare
+489,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Backend webbutvecklare
+490,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Frontend webbutvecklare
+491,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Javautvecklare
+492,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Professionell klippare inom film och TV-drama
+493,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Speldesigner
+494,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Spelgrafiker
+495,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Spelprogrammerare
+496,Grit Academy,10,Ledebursgatan 5,21155,Malmö,eric.badeur@gritacademy.se,736970095,Webbutvecklare inriktning e-handel
+497,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Account Manager B2B
+498,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Account Manager Digital Solutions
+499,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Agil projektledare
+500,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,E-Commerce Logistiker
+501,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,E-Commerce Manager
+502,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Ekonomi- och redovisningskonsult
+503,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Key Account Manager
+504,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Konceptutvecklare Event och besöksnäring
+505,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Marknadskommunikatör - Digitala medier
+506,IHM Business School AB Malmö,10,Norra Vallgatan 102,21121,Malmö,maria.dagermo@ihm.se,040-601 23 00,Visual Merchandiser - Unified Commerce
+507,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Auktoriserad Elinstallatör
+508,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Elteknikingenjör med AL
+509,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Installationssamordning
+510,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Kalkylator VVS
+511,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Kyl- och värmepumptekniker
+512,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Projektering av högspänningsanläggningar
+513,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Projektledare El
+514,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Projektledare Kyla
+515,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Projektledare VVS
+516,INSU AB,10,Teknikgången 6,61138,Nyköping,yh@insu.se,010-1883570,Ventilationsinjustering
+517,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Anläggningsingenjör - infrastruktur
+518,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Automations- och Robotingenjör med Industri 4.0
+519,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Byggnadsingenjör - Produktion
+520,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Mätningstekniker specialistkompetens geodesi
+521,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,PLC-programmering och HMI
+522,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Skogsplanerare
+523,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Specialistundersköterska Palliativ vård
+524,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Stödpedagog inom funktionshinderområdet
+525,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Underhållsingenjör – Smart Maintenance
+526,Hermods AB Umeå,10,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Vindkraftstekniker
+527,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Automationstekniker
+528,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Bryggeritekniker
+529,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Digitaliseringledare inom bygg och anläggning
+530,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Processoperatör/drifttekniker kemisk industri
+531,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Produktionstekniker
+532,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Socialpedagog
+533,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Solenergitekniker
+534,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Trädgårdsmästare - skötsel och underhåll av utemiljö
+535,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Underhållstekniker
+536,Campus Nynäshamn,10,"Nynäshamns kommun, Campus Nynäshamn",14981,Nynäshamn,yh@nynashamn.se,08-52068093,Vindkraftstekniker
+537,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Arbetsmiljöingenjör
+538,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Drifttekniker kraft- värmeproduktion
+539,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Energitekniker
+540,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Frontendutvecklare
+541,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Mjukvaruutvecklare inriktning mobilitetstjänster
+542,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Mobilapplikationsutvecklare
+543,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Specialist inom nätverkssäkerhet
+544,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,"Specialistundersköterska inom neurologi, neurokirurgi och neurointensivvård"
+545,Folkuniversitetet Kursverksamheten vid Göteborgs universitet,9,Box 2542,40317,Göteborg,yh.vast@folkuniversitetet.se,031-106500,Teknikinformatör
+546,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,Funktionsnedsättningar och hälsa
+547,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,Hållbar livsmedelsintraprenör
+548,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,Ingenjör smarta elnät
+549,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,Läke- och livsmedelstekniker
+550,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,Stödpedagog inom funktionshinderområdet
+551,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,"Tekniker inom krossning, betong och asfalt"
+552,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,UAS-pilot inom kategorin SPECIFIK
+553,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,Utvecklingsledare gröna näringar
+554,Folkuniversitetet - Kursverksamheten vid Lunds Universitet,9,Box 2116,22350,Lund,yh.lund@folkuniversitetet.se,046-197700,Verksamhetsutvecklare blåa livsmedel
+555,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,AI Engineering - Utveckling och Optimering
+556,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Betongingenjör
+557,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Energiingenjör
+558,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Event Manager
+559,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Food & Beverage Manager
+560,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Försäkringsrådgivare/Skadereglerare/Riskbedömare
+561,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Hållbar Administrativ Köksmästare
+562,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Kvalificerad Inköpare
+563,Företagsekonomiska Institutet 1888 AB,9,Box 1341,11183,Stockholm,azadeh.lind@fei.se,010-4105900,Projektinköpare/ Entreprenadingenjör inom bygg och anläggning
+564,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Ambulanssjukvårdare
+565,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Hållbara transporter
+566,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Internationell Transportlogistik
+567,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Kvalificerat inköp och upphandling
+568,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Logistik och Supply Chain
+569,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Medicinsk vårdadministratör
+570,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Rörtekniker med svetscertifikat
+571,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Sakkunnig inom tull
+572,Östsvenska Yrkeshögskolan AB,9,Drottninggatan 50,59127,Motala,info@osyh.se,070-590 65 30,Stödpedagog inom funktionshinderområdet
+573,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,DevOps Engineer
+574,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,Frontendutvecklare för mobil och webb
+575,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,Frontendutvecklare för webb och mobil
+576,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,Frontendutvecklare med UX-kompetens
+577,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,Fullstackutvecklare .NET
+578,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,Fullstackutvecklare Java
+579,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,Fullstackutvecklare JavaScript
+580,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,Fullstackutvecklare Open Source
+581,Chas Academy AB,9,Arenavägen 61,12177,Johanneshov,info@chasacademy.se,08 744 55 49,IT och cybersäkerhetstekniker
+582,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Bygglovshandläggare/Byggnadsinspektör
+583,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Digitala verktyg för redovisningsekonomer
+584,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Fotsjukvård vid cytostatikabehandling
+585,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Fotsår hos personer med diabetes
+586,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Framtidens hållbara affärsmodeller
+587,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Medicinsk fotterapeut
+588,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,"Miljö- och drifttekniker, vatten och avlopp"
+589,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Redovisningsekonom
+590,Lexicon Yrkeshögskola AB,9,Kaserngatan 2,90347,Umeå,info.yh@lexicon.se,090-778600,Redovisningsekonomens roll i hållbart ledningsgruppsarbete
+591,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Arbetsmiljöingenjör
+592,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Byggledare
+593,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Informationssäkerhetsspecialist
+594,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Logistiksamordnare
+595,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Paralegal - Juridisk handläggare
+596,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Redovisningsekonom
+597,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Specialistundersköterska inom barnsjukvård
+598,"Sundsvalls kommun, Vuxenutbildningen",8,Sundsvalls kommun,85185,Sundsvall,vuxenutbildning@sundsvall.se,060-194720,Säkerhetssamordnare
+599,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,Byggnadsingenjör - Digitalt Byggande
+600,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,Fastighetsförvaltare
+601,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,Fastighetsförvaltare med teknisk inriktning
+602,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,Filmarbetare / Junior Line Producer
+603,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,Hållbarhetsdeklarationer – CSRD för bygg- och fastighetsbranscherna
+604,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,Specialist tv- och digitalproduktion
+605,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,Systemutvecklare .NET
+606,Newton Kompetensutveckling AB,8,Malmvägen 1,10253,Stockholm,emelie.gruseus@newton.se,841045600,VVS-ingenjör
+607,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,Affärsinriktad Redovisningsekonom
+608,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,B2B-säljare
+609,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,Digital marknadskommunikatör
+610,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,Facility Management
+611,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,Inköpare & Upphandlare
+612,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,Lönekonsult med digital kompetens
+613,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,Payroll Controller
+614,Plushögskolan AB - Affärshögskolan,8,Anders Personsgatan 14,41664,Göteborg,info@affarshogskolan.se,0774-100 500,Strategisk hållbarhetsutveckling
+615,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Automationsingenjör inriktning processteknik
+616,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Barnspecialiserad undersköterska
+617,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Diagnostekniker inom motorbranschen
+618,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Industriell elektroniktekniker
+619,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Medicinsk vårdadministratör
+620,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Plant Design - Anläggningskonstruktör 3D
+621,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Processoperatör och laborant
+622,"Karlstads kommun, Yrkeshögskolan",8,Karlstads kommun,65184,Karlstad,yrkeshogskolan@karlstad.se,545401607,Trafiklärare
+623,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Anläggningsingenjör - hållbart och digitalt samhällsbyggande
+624,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Anläggningsingenjör med BIM- och Hållbarhetskompetens
+625,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Backend Developer inriktning Cloud
+626,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Byggnadsingenjör - hållbart och digitalt byggande
+627,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Frontend Developer
+628,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Mjukvaruutvecklare med AI-inriktning
+629,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Systemutvecklare med .NET-inriktning
+630,Handelsakademin i Göteborg AB,8,Redegatan 1B,42677,Västra Frölunda,camilla.verngren@nbi-handelsakademin.se,720503728,Säljare B2B/Account Manager
+631,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Bergingenjör
+632,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Drift- och fastighetstekniker
+633,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Fiskodlare - hållbart vattenbruk
+634,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Kyl- och värmepumpstekniker
+635,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Laborant
+636,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Redovisningsekonom
+637,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Specialistundersköterska psykiatrisk verksamhet
+638,Hermods AB Östersund,8,Armegränd 1,83132,Östersund,yh@hermods.se,08-41025100,Stödpedagog inom funktionshinderområdet
+639,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Digital analytiker
+640,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Digital Art Director och Copywriter
+641,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Frontendutvecklare React
+642,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Garment technical designer
+643,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Logistikdesigner
+644,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Medicinsk Vårdadministratör
+645,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Stödpedagog inom funktionshinderområdet
+646,Borås Stad - Yrkeshögskolan i Borås,8,Borås Stad Vuxenutbildningen,50180,Borås,yh@boras.se,768885816,Systemutvecklare .NET
+647,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,Bokslut & Deklarationer
+648,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,Drifttekniker med vätgaskompetens
+649,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,Kommunikation & Rådgivning
+650,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,Lön & HR
+651,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,Redovisningsekonom med lönekompetens
+652,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,Samhällsbyggare inom rörnät- & ledningsteknik
+653,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,VA-projektör
+654,Blue Peak AB,8,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,Vatten- & Miljötekniker
+655,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,Energioptimering och navigationsteknik för framtidens sjöfart
+656,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,Grön budgetering - Klimatdeklarationens ekonomi
+657,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,"Lågenergihus, effektivisering och hållbarhet"
+658,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,Maskinsystem och fossilfri framdrift i sjötrafiken
+659,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,Rörinspektör - Mark/Fastighet
+660,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,Rörnätsinspektör Mark
+661,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,Rörnätstekniker/Arbetsledare–Rörnätsteknik
+662,ALEA Kompetenshöjning AB,8,Anderstorpsvägen 22,17154,Solna,info@arenayrkeshogskola.se,010-7880039,Vatten- och miljötekniker
+663,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,3D CAD-konstruktör
+664,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,Agil Javautvecklare
+665,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,Cybersäkerhet enligt NIS2-direktivet: från teori till praktik
+666,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,Cybersäkerhetstekniker - Etisk Hackare
+667,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,Etisk Hacking och Penetrationstestning
+668,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,Fibertekniker med inriktning mastteknik/mobilnät
+669,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,Network Engineer - Nätverksspecialist
+670,Edugrade AB,8,Håstaholmen 4,82442,Hudiksvall,info@edugrade.se,0650-55 34 30,Systemutvecklare .NET med AI-kompetens
+671,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,Elingenjör/Elkonstruktör
+672,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,Energitekniker specialisering vindkraft
+673,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,Järnvägsprojektör
+674,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,Medicinsk vårdadministratör
+675,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,Projektledare inriktning vindkraft
+676,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,Rådgivare bank och placering
+677,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,Systemutvecklare .NET
+678,Campus Varberg/Varbergs kommun,8,Campus Varberg,43280,Varberg,tomas.rasmussen@campus.varberg.se,0340-697400,VVS-ingenjör - energi och teknik
+679,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Bagare och konditor
+680,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Distributionselektriker
+681,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Elkraftsingenjör
+682,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Flygtekniker B1.1
+683,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Lönekonsult
+684,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Relä och kontrollanläggningar i Elkraftsystem
+685,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Systemtekniker spårfordon
+686,Västerås Stad/Barn- och Utbildningsförvaltningen/Västerås Yrkeshögskola,8,Västerås Stad,72214,Västerås,vyh@vasteras.se,21399820,Trafiklärare
+687,MedLearn AB,7,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,010-7610040,Ambulanssjukvårdare
+688,MedLearn AB,7,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,010-7610040,Specialistundersköterska barn- och ungdomssjukvård
+689,MedLearn AB,7,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,010-7610040,Specialistundersköterska inom Onkologi/Cancervård
+690,MedLearn AB,7,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,010-7610040,Specialistundersköterska inom vård och omsorg av äldre
+691,MedLearn AB,7,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,010-7610040,"Specialistundersköterska operation, anestesi och intensivvård"
+692,MedLearn AB,7,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,010-7610040,Specialistundersköterska röntgen
+693,MedLearn AB,7,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,010-7610040,Tandsköterska
+694,IHM Business School AB Stockholm,7,Warfvinges Väg 39,10425,Stockholm,maria.dagermo@ihm.se,08-657 00 00,Account Manager B2B
+695,IHM Business School AB Stockholm,7,Warfvinges Väg 39,10425,Stockholm,maria.dagermo@ihm.se,08-657 00 00,Customer Data Developer
+696,IHM Business School AB Stockholm,7,Warfvinges Väg 39,10425,Stockholm,maria.dagermo@ihm.se,08-657 00 00,Customer Experience Specialist
+697,IHM Business School AB Stockholm,7,Warfvinges Väg 39,10425,Stockholm,maria.dagermo@ihm.se,08-657 00 00,Digital Marketing Specialist
+698,IHM Business School AB Stockholm,7,Warfvinges Väg 39,10425,Stockholm,maria.dagermo@ihm.se,08-657 00 00,E-Commerce Logistiker
+699,IHM Business School AB Stockholm,7,Warfvinges Väg 39,10425,Stockholm,maria.dagermo@ihm.se,08-657 00 00,E-Commerce Manager
+700,IHM Business School AB Stockholm,7,Warfvinges Väg 39,10425,Stockholm,maria.dagermo@ihm.se,08-657 00 00,International Account Manager
+701,"Hässleholms kommun, Yrkeshögskolan Syd",7,Hässleholms kommun Arbetsmarknadsförvaltningen YHS,28180,Hässleholm,kansli.yhs@hassleholm.se,0451-268581,Arbetsledare anläggning
+702,"Hässleholms kommun, Yrkeshögskolan Syd",7,Hässleholms kommun Arbetsmarknadsförvaltningen YHS,28180,Hässleholm,kansli.yhs@hassleholm.se,0451-268581,Automationsingenjör
+703,"Hässleholms kommun, Yrkeshögskolan Syd",7,Hässleholms kommun Arbetsmarknadsförvaltningen YHS,28180,Hässleholm,kansli.yhs@hassleholm.se,0451-268581,Byggnadsingenjör - produktionledning
+704,"Hässleholms kommun, Yrkeshögskolan Syd",7,Hässleholms kommun Arbetsmarknadsförvaltningen YHS,28180,Hässleholm,kansli.yhs@hassleholm.se,0451-268581,Elingenjör - elkonstruktör
+705,"Hässleholms kommun, Yrkeshögskolan Syd",7,Hässleholms kommun Arbetsmarknadsförvaltningen YHS,28180,Hässleholm,kansli.yhs@hassleholm.se,0451-268581,Elkraftsingenjör - projektering och beredning
+706,"Hässleholms kommun, Yrkeshögskolan Syd",7,Hässleholms kommun Arbetsmarknadsförvaltningen YHS,28180,Hässleholm,kansli.yhs@hassleholm.se,0451-268581,"Entreprenadingenjör - kalkyl, inköp, hållbar planering"
+707,"Hässleholms kommun, Yrkeshögskolan Syd",7,Hässleholms kommun Arbetsmarknadsförvaltningen YHS,28180,Hässleholm,kansli.yhs@hassleholm.se,0451-268581,Tågtekniker
+708,Futuregames AB,7,Hammarby fabriksväg 61,12030,Stockholm,christina.rehn@cmeducations.se,46101421048,Agile Project Manager
+709,Futuregames AB,7,Hammarby fabriksväg 61,12030,Stockholm,christina.rehn@cmeducations.se,46101421048,Experience Designer
+710,Futuregames AB,7,Hammarby fabriksväg 61,12030,Stockholm,christina.rehn@cmeducations.se,46101421048,Frontend Developer
+711,Futuregames AB,7,Hammarby fabriksväg 61,12030,Stockholm,christina.rehn@cmeducations.se,46101421048,Futuregames Animator and VFX Artist
+712,Futuregames AB,7,Hammarby fabriksväg 61,12030,Stockholm,christina.rehn@cmeducations.se,46101421048,Futuregames Game Designer
+713,Futuregames AB,7,Hammarby fabriksväg 61,12030,Stockholm,christina.rehn@cmeducations.se,46101421048,Futuregames Game Programmer
+714,Futuregames AB,7,Hammarby fabriksväg 61,12030,Stockholm,christina.rehn@cmeducations.se,46101421048,Game & UX Designer
+715,"Kramfors kommun, Yrkeshögskolan Höga kusten",7,Vuxenutbildningen,87280,Kramfors,agnetha.fredriksson@kramfors.se,0612-80 117,Byggnadsvård - Interiör och Hantverk
+716,"Kramfors kommun, Yrkeshögskolan Höga kusten",7,Vuxenutbildningen,87280,Kramfors,agnetha.fredriksson@kramfors.se,0612-80 117,Mätningstekniker
+717,"Kramfors kommun, Yrkeshögskolan Höga kusten",7,Vuxenutbildningen,87280,Kramfors,agnetha.fredriksson@kramfors.se,0612-80 117,Möbelsnickare - Historiskt hantverk
+718,"Kramfors kommun, Yrkeshögskolan Höga kusten",7,Vuxenutbildningen,87280,Kramfors,agnetha.fredriksson@kramfors.se,0612-80 117,Möbeltapetserare - Historiskt hantverk
+719,"Kramfors kommun, Yrkeshögskolan Höga kusten",7,Vuxenutbildningen,87280,Kramfors,agnetha.fredriksson@kramfors.se,0612-80 117,Psykiatrispecialiserad undersköterska/vårdare med beroendekompetens
+720,"Kramfors kommun, Yrkeshögskolan Höga kusten",7,Vuxenutbildningen,87280,Kramfors,agnetha.fredriksson@kramfors.se,0612-80 117,Specialiserad möbelsnickare med inriktning mot gesäll
+721,"Kramfors kommun, Yrkeshögskolan Höga kusten",7,Vuxenutbildningen,87280,Kramfors,agnetha.fredriksson@kramfors.se,0612-80 117,Specialistundersköterska inom vård och omsorg av äldre
+722,"Kunskapsförbundet Väst, Vuxenutbildningen",7,Box 317,46224,Vänersborg,infovuxkfv@kunskapsforbundet.se,0521 - 72 10 00,Filmarbetare i kreativ teamfunktion – mask
+723,"Kunskapsförbundet Väst, Vuxenutbildningen",7,Box 317,46224,Vänersborg,infovuxkfv@kunskapsforbundet.se,0521 - 72 10 00,Filmarbetare i kreativ teamfunktion – scenografi och kostym
+724,"Kunskapsförbundet Väst, Vuxenutbildningen",7,Box 317,46224,Vänersborg,infovuxkfv@kunskapsforbundet.se,0521 - 72 10 00,"Filmarbetare i teknisk teamfunktion – ljud, ljus och kamera"
+725,"Kunskapsförbundet Väst, Vuxenutbildningen",7,Box 317,46224,Vänersborg,infovuxkfv@kunskapsforbundet.se,0521 - 72 10 00,Livskvalitet för personer med demens
+726,"Kunskapsförbundet Väst, Vuxenutbildningen",7,Box 317,46224,Vänersborg,infovuxkfv@kunskapsforbundet.se,0521 - 72 10 00,Medicinsk vårdadministratör
+727,"Kunskapsförbundet Väst, Vuxenutbildningen",7,Box 317,46224,Vänersborg,infovuxkfv@kunskapsforbundet.se,0521 - 72 10 00,Specialistundersköterska inom akutsjukvård
+728,"Kunskapsförbundet Väst, Vuxenutbildningen",7,Box 317,46224,Vänersborg,infovuxkfv@kunskapsforbundet.se,0521 - 72 10 00,Symtomlindring och vård i livets slut
+729,"Mariestads kommun, Dacapo Mariestad",7,"Mariestads kommun, Dacapo Mariestad",54286,Mariestad,nathalie.werjefelt@mariestad.se,0501-755776,Att tillvarata trädens nytta i staden- från planering till anläggning och skötsel
+730,"Mariestads kommun, Dacapo Mariestad",7,"Mariestads kommun, Dacapo Mariestad",54286,Mariestad,nathalie.werjefelt@mariestad.se,0501-755776,Bevara och återskapa natur- att integrera natur och naturbaserade lösningar i samhällsbyggnadsprocessen
+731,"Mariestads kommun, Dacapo Mariestad",7,"Mariestads kommun, Dacapo Mariestad",54286,Mariestad,nathalie.werjefelt@mariestad.se,0501-755776,Fönsterhantverkare- traditionella hantverkstekniker
+732,"Mariestads kommun, Dacapo Mariestad",7,"Mariestads kommun, Dacapo Mariestad",54286,Mariestad,nathalie.werjefelt@mariestad.se,0501-755776,Förädlingsodlare
+733,"Mariestads kommun, Dacapo Mariestad",7,"Mariestads kommun, Dacapo Mariestad",54286,Mariestad,nathalie.werjefelt@mariestad.se,0501-755776,Hållbara våtmarker i stad och på landsbygd
+734,"Mariestads kommun, Dacapo Mariestad",7,"Mariestads kommun, Dacapo Mariestad",54286,Mariestad,nathalie.werjefelt@mariestad.se,0501-755776,Kulturmålare - traditionellt byggnadsmåleri
+735,"Mariestads kommun, Dacapo Mariestad",7,"Mariestads kommun, Dacapo Mariestad",54286,Mariestad,nathalie.werjefelt@mariestad.se,0501-755776,Produktionstekniker för framtidens automatiserade industri
+736,Berghs School of Communication,7,Box 1380,11193,Stockholm,info@berghs.se,08-58755000,Content Engineering
+737,Berghs School of Communication,7,Box 1380,11193,Stockholm,info@berghs.se,08-58755000,Digital Design & Strategy
+738,Berghs School of Communication,7,Box 1380,11193,Stockholm,info@berghs.se,08-58755000,Growth Marketing
+739,Berghs School of Communication,7,Box 1380,11193,Stockholm,info@berghs.se,08-58755000,Produktionsledning
+740,Berghs School of Communication,7,Box 1380,11193,Stockholm,info@berghs.se,08-58755000,Public Relations
+741,Berghs School of Communication,7,Box 1380,11193,Stockholm,info@berghs.se,08-58755000,Stadsutveckling / Urban Designer
+742,Berghs School of Communication,7,Box 1380,11193,Stockholm,info@berghs.se,08-58755000,Strategisk kommunikation
+743,Hermods AB Örebro,7,Elementvägen 14,70227,Örebro,yh@hermods.se,08-410 25 100,Anläggningsingenjör - Infrastruktur
+744,Hermods AB Örebro,7,Elementvägen 14,70227,Örebro,yh@hermods.se,08-410 25 100,Automations- och Robotingenjör med Industri 4.0
+745,Hermods AB Örebro,7,Elementvägen 14,70227,Örebro,yh@hermods.se,08-410 25 100,CNC- och robottekniker
+746,Hermods AB Örebro,7,Elementvägen 14,70227,Örebro,yh@hermods.se,08-410 25 100,Injustering ventilation
+747,Hermods AB Örebro,7,Elementvägen 14,70227,Örebro,yh@hermods.se,08-410 25 100,Kyl- och värmepumpstekniker
+748,Hermods AB Örebro,7,Elementvägen 14,70227,Örebro,yh@hermods.se,08-410 25 100,Technical Account Manager
+749,Hermods AB Örebro,7,Elementvägen 14,70227,Örebro,yh@hermods.se,08-410 25 100,VVS-ingenjör
+750,Tibro Hantverksakademi,7,Grönhultsvägen 2,54351,Tibro,tibrohantverksakademi@folkuniversitetet.se,0504-12550,Förgyllare/Dekorationsmålare
+751,Tibro Hantverksakademi,7,Grönhultsvägen 2,54351,Tibro,tibrohantverksakademi@folkuniversitetet.se,0504-12550,Möbel- och specialsnickare
+752,Tibro Hantverksakademi,7,Grönhultsvägen 2,54351,Tibro,tibrohantverksakademi@folkuniversitetet.se,0504-12550,Möbelrestaurerare
+753,Tibro Hantverksakademi,7,Grönhultsvägen 2,54351,Tibro,tibrohantverksakademi@folkuniversitetet.se,0504-12550,Möbeltapetserare
+754,Tibro Hantverksakademi,7,Grönhultsvägen 2,54351,Tibro,tibrohantverksakademi@folkuniversitetet.se,0504-12550,Projektledare inom möbel- och inredningsbranschen
+755,Tibro Hantverksakademi,7,Grönhultsvägen 2,54351,Tibro,tibrohantverksakademi@folkuniversitetet.se,0504-12550,Träbildhuggare/Träsnidare/Trähantverkare
+756,Tibro Hantverksakademi,7,Grönhultsvägen 2,54351,Tibro,tibrohantverksakademi@folkuniversitetet.se,0504-12550,Trähantverk med inriktning mot rekonditionering och återbruk inom möbelbranschen
+757,Stockholms Internationella Handelsskola AB,7,Karlavägen 108,11526,Stockholm,martin.wesseloh@sih.se,08-322212,Content marketing
+758,Stockholms Internationella Handelsskola AB,7,Karlavägen 108,11526,Stockholm,martin.wesseloh@sih.se,08-322212,Growth marketing
+759,Stockholms Internationella Handelsskola AB,7,Karlavägen 108,11526,Stockholm,martin.wesseloh@sih.se,08-322212,Internationell inköpare
+760,Stockholms Internationella Handelsskola AB,7,Karlavägen 108,11526,Stockholm,martin.wesseloh@sih.se,08-322212,Internationell redovisningsekonom
+761,Stockholms Internationella Handelsskola AB,7,Karlavägen 108,11526,Stockholm,martin.wesseloh@sih.se,08-322212,Logistiker/speditör med hållbarhetsprofil
+762,Stockholms Internationella Handelsskola AB,7,Karlavägen 108,11526,Stockholm,martin.wesseloh@sih.se,08-322212,Sustainable Logistics Specialist
+763,Stockholms Internationella Handelsskola AB,7,Karlavägen 108,11526,Stockholm,martin.wesseloh@sih.se,08-322212,Tullspecialist
+764,Stockholm School of Business,7,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,84429500,Butiksledare
+765,Stockholm School of Business,7,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,84429500,Försäkringsrådgivare
+766,Stockholm School of Business,7,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,84429500,Payroll Business Partner
+767,Stockholm School of Business,7,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,84429500,Redovisningskonsult
+768,Stockholm School of Business,7,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,84429500,Systemförvaltning för lönespecialister
+769,Stockholm School of Business,7,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,84429500,Säljare B2B
+770,Stockholm School of Business,7,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,84429500,Visual Merchandiser
+771,TGA Utbildning AB,6,Skeppsgatan 19,21119,Malmö,malmo@thegameassembly.se,723933557,Leveldesigner
+772,TGA Utbildning AB,6,Skeppsgatan 19,21119,Malmö,malmo@thegameassembly.se,723933557,Procedural Artist
+773,TGA Utbildning AB,6,Skeppsgatan 19,21119,Malmö,malmo@thegameassembly.se,723933557,Spelanimatör
+774,TGA Utbildning AB,6,Skeppsgatan 19,21119,Malmö,malmo@thegameassembly.se,723933557,Spelgrafiker
+775,TGA Utbildning AB,6,Skeppsgatan 19,21119,Malmö,malmo@thegameassembly.se,723933557,Spelprogrammerare
+776,TGA Utbildning AB,6,Skeppsgatan 19,21119,Malmö,malmo@thegameassembly.se,723933557,Technical Artist
+777,Hermods AB Karlskrona,6,Tyska Bryggaregården Saltsjöbadsvägen 1 A,37156,Karlskrona,yh@hermods.se,010-1421391,Psykisk ohälsa
+778,Hermods AB Karlskrona,6,Tyska Bryggaregården Saltsjöbadsvägen 1 A,37156,Karlskrona,yh@hermods.se,010-1421391,Specialistundersköterska inom psykiatrisk verksamhet
+779,Hermods AB Karlskrona,6,Tyska Bryggaregården Saltsjöbadsvägen 1 A,37156,Karlskrona,yh@hermods.se,010-1421391,Specialistundersköterska inom vård och omsorg av äldre
+780,Hermods AB Karlskrona,6,Tyska Bryggaregården Saltsjöbadsvägen 1 A,37156,Karlskrona,yh@hermods.se,010-1421391,Specialistundersköterska inriktning palliativ vård
+781,Hermods AB Karlskrona,6,Tyska Bryggaregården Saltsjöbadsvägen 1 A,37156,Karlskrona,yh@hermods.se,010-1421391,Stödpedagog inom funktionshinderområdet
+782,Hermods AB Karlskrona,6,Tyska Bryggaregården Saltsjöbadsvägen 1 A,37156,Karlskrona,yh@hermods.se,010-1421391,Trädgårdsmästare inom park och kulturlandskap
+783,Hyper Island Program AB - Stockholm,6,Virkesvägen 2,12030,Stockholm,myhinfo@hyperisland.com,08-7443050,Content Developer
+784,Hyper Island Program AB - Stockholm,6,Virkesvägen 2,12030,Stockholm,myhinfo@hyperisland.com,08-7443050,Data Analyst
+785,Hyper Island Program AB - Stockholm,6,Virkesvägen 2,12030,Stockholm,myhinfo@hyperisland.com,08-7443050,Digital Creative
+786,Hyper Island Program AB - Stockholm,6,Virkesvägen 2,12030,Stockholm,myhinfo@hyperisland.com,08-7443050,Frontend Developer
+787,Hyper Island Program AB - Stockholm,6,Virkesvägen 2,12030,Stockholm,myhinfo@hyperisland.com,08-7443050,Motion Creative
+788,Hyper Island Program AB - Stockholm,6,Virkesvägen 2,12030,Stockholm,myhinfo@hyperisland.com,08-7443050,Product Manager
+789,Göteborgs Tekniska College AB,6,Box 8090,40278,Göteborg,Andrea.Palmberg@gtc.com,0708-581981,Batteri- och elfordonssystem
+790,Göteborgs Tekniska College AB,6,Box 8090,40278,Göteborg,Andrea.Palmberg@gtc.com,0708-581981,Energy Storage El- och hybridfordon
+791,Göteborgs Tekniska College AB,6,Box 8090,40278,Göteborg,Andrea.Palmberg@gtc.com,0708-581981,Konstruktör batterielektriska system
+792,Göteborgs Tekniska College AB,6,Box 8090,40278,Göteborg,Andrea.Palmberg@gtc.com,0708-581981,Kvalitetstekniker inom batteritillverkning
+793,Göteborgs Tekniska College AB,6,Box 8090,40278,Göteborg,Andrea.Palmberg@gtc.com,0708-581981,Produktionsutveckling
+794,Göteborgs Tekniska College AB,6,Box 8090,40278,Göteborg,Andrea.Palmberg@gtc.com,0708-581981,Underhållstekniker - el och automation
+795,East Sweden Business School AB,6,Brukareg 8,58336,Linköping,info@esbs.se,703510564,Arbetsmiljöingenjör - inriktning bygg/anläggning och industri
+796,East Sweden Business School AB,6,Brukareg 8,58336,Linköping,info@esbs.se,703510564,Byggledare - bygg och anläggning
+797,East Sweden Business School AB,6,Brukareg 8,58336,Linköping,info@esbs.se,703510564,Entreprenadingenjör
+798,East Sweden Business School AB,6,Brukareg 8,58336,Linköping,info@esbs.se,703510564,Inköp av tekniska anläggningar och utrustning för energi- och industriändamål
+799,East Sweden Business School AB,6,Brukareg 8,58336,Linköping,info@esbs.se,703510564,Markexploatering och fördjupad entreprenadjuridik
+800,East Sweden Business School AB,6,Brukareg 8,58336,Linköping,info@esbs.se,703510564,Mätningstekniker
+801,KYH AB Malmö,6,Östra Förstadsgatan 46,21212,Malmö,ylva.bockman@kyh.se,0768-852115,Byggproduktionsledare ROT
+802,KYH AB Malmö,6,Östra Förstadsgatan 46,21212,Malmö,ylva.bockman@kyh.se,0768-852115,Energiingenjör
+803,KYH AB Malmö,6,Östra Förstadsgatan 46,21212,Malmö,ylva.bockman@kyh.se,0768-852115,Entreprenadingenjör - hållbart byggande
+804,KYH AB Malmö,6,Östra Förstadsgatan 46,21212,Malmö,ylva.bockman@kyh.se,0768-852115,Lönekonsult
+805,KYH AB Malmö,6,Östra Förstadsgatan 46,21212,Malmö,ylva.bockman@kyh.se,0768-852115,Mätningsingenjör bygg och anläggning
+806,KYH AB Malmö,6,Östra Förstadsgatan 46,21212,Malmö,ylva.bockman@kyh.se,0768-852115,VA-projektör
+807,"Västra Götalands läns landsting, Biologiska Yrkeshögskolan i Skara - BYS",6,Regionens Hus,54180,Skövde,naturbrukskansliet@vgregion.se,104550830,Agrotekniker
+808,"Västra Götalands läns landsting, Biologiska Yrkeshögskolan i Skara - BYS",6,Regionens Hus,54180,Skövde,naturbrukskansliet@vgregion.se,104550830,Hovslagare
+809,"Västra Götalands läns landsting, Biologiska Yrkeshögskolan i Skara - BYS",6,Regionens Hus,54180,Skövde,naturbrukskansliet@vgregion.se,104550830,Klövvårdare
+810,"Västra Götalands läns landsting, Biologiska Yrkeshögskolan i Skara - BYS",6,Regionens Hus,54180,Skövde,naturbrukskansliet@vgregion.se,104550830,Kvalificerad Djurvårdare - nivå 2
+811,"Västra Götalands läns landsting, Biologiska Yrkeshögskolan i Skara - BYS",6,Regionens Hus,54180,Skövde,naturbrukskansliet@vgregion.se,104550830,Småskalig virkesförädling: sågning och timmerhantverk
+812,"Västra Götalands läns landsting, Biologiska Yrkeshögskolan i Skara - BYS",6,Regionens Hus,54180,Skövde,naturbrukskansliet@vgregion.se,104550830,Verksamhetsledare inom hästrelaterade näringar
+813,Yrkeshögskola Campus Mölndal,6,"Krokslätts fabriker 30, våning 4",43137,Mölndal,rose-marie.dagman@molndal.se,313151735,Aktiveringspedagog inom LSS
+814,Yrkeshögskola Campus Mölndal,6,"Krokslätts fabriker 30, våning 4",43137,Mölndal,rose-marie.dagman@molndal.se,313151735,CAD-konstruktör plast/mekanik
+815,Yrkeshögskola Campus Mölndal,6,"Krokslätts fabriker 30, våning 4",43137,Mölndal,rose-marie.dagman@molndal.se,313151735,Cloud Developer
+816,Yrkeshögskola Campus Mölndal,6,"Krokslätts fabriker 30, våning 4",43137,Mölndal,rose-marie.dagman@molndal.se,313151735,Elkonstruktör specialisering industri
+817,Yrkeshögskola Campus Mölndal,6,"Krokslätts fabriker 30, våning 4",43137,Mölndal,rose-marie.dagman@molndal.se,313151735,IT-projektledare
+818,Yrkeshögskola Campus Mölndal,6,"Krokslätts fabriker 30, våning 4",43137,Mölndal,rose-marie.dagman@molndal.se,313151735,Moln- och virtualiseringsspecialist
+819,Nercia Utbildning,6,Box 14055,70014,Örebro,anna.belinki@nercia.se,019-206700,Auktoriserad Elinstallatör
+820,Nercia Utbildning,6,Box 14055,70014,Örebro,anna.belinki@nercia.se,019-206700,Drift- och Fastighetstekniker
+821,Nercia Utbildning,6,Box 14055,70014,Örebro,anna.belinki@nercia.se,019-206700,Geodetisk Mätningsteknik
+822,Nercia Utbildning,6,Box 14055,70014,Örebro,anna.belinki@nercia.se,019-206700,Kvalitetssäkring av hållbara solcellsanläggningar
+823,Nercia Utbildning,6,Box 14055,70014,Örebro,anna.belinki@nercia.se,019-206700,Mätningstekniker
+824,Nercia Utbildning,6,Box 14055,70014,Örebro,anna.belinki@nercia.se,019-206700,Solenergitekniker
+825,TCC Sverige AB,6,"Växlarevägen 25, Bv",17063,Solna,yh@tcc.se,702371882,Kvalificerad bantekniker
+826,TCC Sverige AB,6,"Växlarevägen 25, Bv",17063,Solna,yh@tcc.se,702371882,Lokförare
+827,TCC Sverige AB,6,"Växlarevägen 25, Bv",17063,Solna,yh@tcc.se,702371882,Lokförare Göteborg
+828,TCC Sverige AB,6,"Växlarevägen 25, Bv",17063,Solna,yh@tcc.se,702371882,Lokförare Hallsberg
+829,TCC Sverige AB,6,"Växlarevägen 25, Bv",17063,Solna,yh@tcc.se,702371882,Lokförare Umeå/Sundsvall/Borlänge
+830,TCC Sverige AB,6,"Växlarevägen 25, Bv",17063,Solna,yh@tcc.se,702371882,Produktionslogistiker
+831,"Luleå kommun, Vuxenutbildningen",5,Laboratoriegränd 11,97753,Luleå,yh@amf.lulea.se,0920-45 30 00,El- och automationsingenjör
+832,"Luleå kommun, Vuxenutbildningen",5,Laboratoriegränd 11,97753,Luleå,yh@amf.lulea.se,0920-45 30 00,Järnvägstekniker / Kvalificerad bantekniker
+833,"Luleå kommun, Vuxenutbildningen",5,Laboratoriegränd 11,97753,Luleå,yh@amf.lulea.se,0920-45 30 00,Järnvägstekniker / Kvalificerad kontaktledningstekniker
+834,"Luleå kommun, Vuxenutbildningen",5,Laboratoriegränd 11,97753,Luleå,yh@amf.lulea.se,0920-45 30 00,Tandsköterska
+835,"Luleå kommun, Vuxenutbildningen",5,Laboratoriegränd 11,97753,Luleå,yh@amf.lulea.se,0920-45 30 00,VVS- och energiingenjör
+836,Plushögskolan AB - Vårdyrkeshögskolan,5,Anders Personsgatan 14,41664,Göteborg,info@vardyrkeshogskolan.se,0774-100 500,Handledare inom LSS och socialpsykiatri
+837,Plushögskolan AB - Vårdyrkeshögskolan,5,Anders Personsgatan 14,41664,Göteborg,info@vardyrkeshogskolan.se,0774-100 500,Instrument- och steriltekniker
+838,Plushögskolan AB - Vårdyrkeshögskolan,5,Anders Personsgatan 14,41664,Göteborg,info@vardyrkeshogskolan.se,0774-100 500,Medicinsk vårdadministratör
+839,Plushögskolan AB - Vårdyrkeshögskolan,5,Anders Personsgatan 14,41664,Göteborg,info@vardyrkeshogskolan.se,0774-100 500,Missbruk och beroende
+840,Plushögskolan AB - Vårdyrkeshögskolan,5,Anders Personsgatan 14,41664,Göteborg,info@vardyrkeshogskolan.se,0774-100 500,Tandsköterska
+841,KYH AB Göteborg,5,Vintergatan 1,41758,Göteborg,annika.jidegren@kyh.se,0768-852135,Byggproduktionsledare
+842,KYH AB Göteborg,5,Vintergatan 1,41758,Göteborg,annika.jidegren@kyh.se,0768-852135,Entreprenadingenjör
+843,KYH AB Göteborg,5,Vintergatan 1,41758,Göteborg,annika.jidegren@kyh.se,0768-852135,Miljösamordnare Hållbara byggnader
+844,KYH AB Göteborg,5,Vintergatan 1,41758,Göteborg,annika.jidegren@kyh.se,0768-852135,Mätningsingenjör Bygg och Anläggning
+845,KYH AB Göteborg,5,Vintergatan 1,41758,Göteborg,annika.jidegren@kyh.se,0768-852135,Projektledare Solenergi
+846,Folkuniversitetet – Kursverksamheten vid Umeå Universitet,5,Nygatan 43,90330,Umeå,malin.pettersson@folkuniversitetet.se,090-711400,Fastighet- och drifttekniker
+847,Folkuniversitetet – Kursverksamheten vid Umeå Universitet,5,Nygatan 43,90330,Umeå,malin.pettersson@folkuniversitetet.se,090-711400,Socialpedagog
+848,Folkuniversitetet – Kursverksamheten vid Umeå Universitet,5,Nygatan 43,90330,Umeå,malin.pettersson@folkuniversitetet.se,090-711400,Sprinkler-projektör
+849,Folkuniversitetet – Kursverksamheten vid Umeå Universitet,5,Nygatan 43,90330,Umeå,malin.pettersson@folkuniversitetet.se,090-711400,Tandsköterska
+850,Folkuniversitetet – Kursverksamheten vid Umeå Universitet,5,Nygatan 43,90330,Umeå,malin.pettersson@folkuniversitetet.se,090-711400,VA-projektör
+851,"Kristianstad kommun, Vuxenutbildningen",5,Götgatan 2,29133,Kristianstad,annika.persson@kristianstad.se,044-13 67 41,Bagare och Konditor
+852,"Kristianstad kommun, Vuxenutbildningen",5,Götgatan 2,29133,Kristianstad,annika.persson@kristianstad.se,044-13 67 41,Medicinsk vårdadministratör
+853,"Kristianstad kommun, Vuxenutbildningen",5,Götgatan 2,29133,Kristianstad,annika.persson@kristianstad.se,044-13 67 41,Specialistundersköterska inom vård och omsorg av äldre
+854,"Kristianstad kommun, Vuxenutbildningen",5,Götgatan 2,29133,Kristianstad,annika.persson@kristianstad.se,044-13 67 41,Stödpedagog inom funktionshinderområdet
+855,"Kristianstad kommun, Vuxenutbildningen",5,Götgatan 2,29133,Kristianstad,annika.persson@kristianstad.se,044-13 67 41,Tandsköterska
+856,IT-Högskolan Stockholm AB,5,Trekantsvägen 1,11743,Stockholm,info@iths.se,08-55768353,IT-projektledare
+857,IT-Högskolan Stockholm AB,5,Trekantsvägen 1,11743,Stockholm,info@iths.se,08-55768353,IT-Säkerhetstestare
+858,IT-Högskolan Stockholm AB,5,Trekantsvägen 1,11743,Stockholm,info@iths.se,08-55768353,JavaScript-utvecklare
+859,IT-Högskolan Stockholm AB,5,Trekantsvägen 1,11743,Stockholm,info@iths.se,08-55768353,Javautvecklare
+860,IT-Högskolan Stockholm AB,5,Trekantsvägen 1,11743,Stockholm,info@iths.se,08-55768353,Utvecklare inom AI och maskininlärning
+861,"Södertälje kommun, Campus Telge",5,Södertälje kommun,15189,Södertälje,anna-karin.pantzar@skolasodertalje.se,08-52301000,Kyl- och värmepumptekniker
+862,"Södertälje kommun, Campus Telge",5,Södertälje kommun,15189,Södertälje,anna-karin.pantzar@skolasodertalje.se,08-52301000,Produktionstekniker och -utvecklare med inriktning hållbar produktion
+863,"Södertälje kommun, Campus Telge",5,Södertälje kommun,15189,Södertälje,anna-karin.pantzar@skolasodertalje.se,08-52301000,Säkerhetsingenjör
+864,"Södertälje kommun, Campus Telge",5,Södertälje kommun,15189,Södertälje,anna-karin.pantzar@skolasodertalje.se,08-52301000,"Trädgårdsmästare, ekologi och entreprenörskap"
+865,"Södertälje kommun, Campus Telge",5,Södertälje kommun,15189,Södertälje,anna-karin.pantzar@skolasodertalje.se,08-52301000,Underhållstekniker
+866,"Uddevalla kommun, Uddevalla Yrkeshögskola",5,Uddevalla kommun,45181,Uddevalla,yh@uddevalla.se,0522-69 78 00,Backend-utvecklare
+867,"Uddevalla kommun, Uddevalla Yrkeshögskola",5,Uddevalla kommun,45181,Uddevalla,yh@uddevalla.se,0522-69 78 00,Digital butiksledare
+868,"Uddevalla kommun, Uddevalla Yrkeshögskola",5,Uddevalla kommun,45181,Uddevalla,yh@uddevalla.se,0522-69 78 00,Marin Serviceingenjör
+869,"Uddevalla kommun, Uddevalla Yrkeshögskola",5,Uddevalla kommun,45181,Uddevalla,yh@uddevalla.se,0522-69 78 00,Skräddare
+870,"Uddevalla kommun, Uddevalla Yrkeshögskola",5,Uddevalla kommun,45181,Uddevalla,yh@uddevalla.se,0522-69 78 00,Stödpedagog inom funktionshinderområdet
+871,Sverigehälsan AB,5,Nils Forsbergs plats 3,21754,Malmö,info@sverigehalsan.se,406986000,Funktionsnedsättningar med särskild inriktning på kommunikationsstödjande verktyg
+872,Sverigehälsan AB,5,Nils Forsbergs plats 3,21754,Malmö,info@sverigehalsan.se,406986000,Problematisk skolfrånvaro och hemmasittarproblematik
+873,Sverigehälsan AB,5,Nils Forsbergs plats 3,21754,Malmö,info@sverigehalsan.se,406986000,Samsjuklighet med beroende och psykiatriska tillstånd
+874,Sverigehälsan AB,5,Nils Forsbergs plats 3,21754,Malmö,info@sverigehalsan.se,406986000,Socialpedagog
+875,Sverigehälsan AB,5,Nils Forsbergs plats 3,21754,Malmö,info@sverigehalsan.se,406986000,Socialt förändringsarbete med unga i kriminalitet och utanförskap
+876,Skellefteå kommun Vuxenutbildningen,5,Skellefteå kommun Vuxenutbildningen,93185,Skellefteå,yh@skelleftea.se,0910-735000,Produktionstekniker Automatiserade tillverkningsprocesser
+877,Skellefteå kommun Vuxenutbildningen,5,Skellefteå kommun Vuxenutbildningen,93185,Skellefteå,yh@skelleftea.se,0910-735000,Produktionstekniker Digitalisering och datorstödd tillverkning
+878,Skellefteå kommun Vuxenutbildningen,5,Skellefteå kommun Vuxenutbildningen,93185,Skellefteå,yh@skelleftea.se,0910-735000,Specialistundersköterska inom vård och omsorg av äldre
+879,Skellefteå kommun Vuxenutbildningen,5,Skellefteå kommun Vuxenutbildningen,93185,Skellefteå,yh@skelleftea.se,0910-735000,Stödpedagog inom funktionshinderområdet
+880,Skellefteå kommun Vuxenutbildningen,5,Skellefteå kommun Vuxenutbildningen,93185,Skellefteå,yh@skelleftea.se,0910-735000,Tekniker hållbar batteritillverkning
+881,"Region Kronoberg, YH Region Kronoberg",5,YH Region Kronoberg,35188,Växjö,region@kronoberg.se,0470-588000,Medicinsk vårdadministratör
+882,"Region Kronoberg, YH Region Kronoberg",5,YH Region Kronoberg,35188,Växjö,region@kronoberg.se,0470-588000,Specialistundersköterska - psykiatri
+883,"Region Kronoberg, YH Region Kronoberg",5,YH Region Kronoberg,35188,Växjö,region@kronoberg.se,0470-588000,Specialistundersköterska barn och ungdomssjukvård
+884,"Region Kronoberg, YH Region Kronoberg",5,YH Region Kronoberg,35188,Växjö,region@kronoberg.se,0470-588000,"Specialistundersköterska Operation, anestesi och intensivvård"
+885,"Region Kronoberg, YH Region Kronoberg",5,YH Region Kronoberg,35188,Växjö,region@kronoberg.se,0470-588000,Tandsköterska
+886,Sälj & Marknadshögskolan i Sverige AB - Göteborg,5,Mölndalsvägen 81,41263,Göteborg,emma.olau@smhsverige.se,010-7094100,Account Manager IT Sales
+887,Sälj & Marknadshögskolan i Sverige AB - Göteborg,5,Mölndalsvägen 81,41263,Göteborg,emma.olau@smhsverige.se,010-7094100,Digital marknadsförare
+888,Sälj & Marknadshögskolan i Sverige AB - Göteborg,5,Mölndalsvägen 81,41263,Göteborg,emma.olau@smhsverige.se,010-7094100,E-commerce Manager
+889,Sälj & Marknadshögskolan i Sverige AB - Göteborg,5,Mölndalsvägen 81,41263,Göteborg,emma.olau@smhsverige.se,010-7094100,Internationell säljare och marknadsförare
+890,Sälj & Marknadshögskolan i Sverige AB - Göteborg,5,Mölndalsvägen 81,41263,Göteborg,emma.olau@smhsverige.se,010-7094100,Key Account Manager
+891,EC Utbildning AB Malmö,4,Östra Förstadsgatan 46,21212,Malmö,info@ecutbildning.se,040-6416300,Mjukvarutestare
+892,EC Utbildning AB Malmö,4,Östra Förstadsgatan 46,21212,Malmö,info@ecutbildning.se,040-6416300,Technical Operations Specialist
+893,EC Utbildning AB Malmö,4,Östra Förstadsgatan 46,21212,Malmö,info@ecutbildning.se,040-6416300,Testautomatisering med Continuous Integration
+894,EC Utbildning AB Malmö,4,Östra Förstadsgatan 46,21212,Malmö,info@ecutbildning.se,040-6416300,UX Designer
+895,Consensum YH S,4,c/o Helio Peter Myndes backe 16,11846,Stockholm,info@consensum-yh.se,073-4349340,Specialistundersköterska inom vård och omsorg av äldre
+896,Consensum YH S,4,c/o Helio Peter Myndes backe 16,11846,Stockholm,info@consensum-yh.se,073-4349340,Specialistutbildad undersköterska inom palliativ vård
+897,Consensum YH S,4,c/o Helio Peter Myndes backe 16,11846,Stockholm,info@consensum-yh.se,073-4349340,Specialistutbildad undersköterska inom psykisk ohälsa
+898,Consensum YH S,4,c/o Helio Peter Myndes backe 16,11846,Stockholm,info@consensum-yh.se,073-4349340,Stödpedagog
+899,"Landskrona Stad, Yrkeshögskolan Landskrona",4,Stadshuset,26180,Landskrona,verica.vasicabrahamsson@landskrona.se,0418-474650,Eventkoordinator
+900,"Landskrona Stad, Yrkeshögskolan Landskrona",4,Stadshuset,26180,Landskrona,verica.vasicabrahamsson@landskrona.se,0418-474650,Hud- och spaterapeut
+901,"Landskrona Stad, Yrkeshögskolan Landskrona",4,Stadshuset,26180,Landskrona,verica.vasicabrahamsson@landskrona.se,0418-474650,Medicinsk vårdadministratör
+902,"Landskrona Stad, Yrkeshögskolan Landskrona",4,Stadshuset,26180,Landskrona,verica.vasicabrahamsson@landskrona.se,0418-474650,Stödpedagog inom funktionshinderområdet
+903,Sunne kommun/Brobygrafiska,4,34. Sunne kommun,68680,Sunne,brobygrafiska@sunne.se,0565-16000,Front-End med säkerhet och tillgänglighet.
+904,Sunne kommun/Brobygrafiska,4,34. Sunne kommun,68680,Sunne,brobygrafiska@sunne.se,0565-16000,Grafisk Formgivare/Tekniker
+905,Sunne kommun/Brobygrafiska,4,34. Sunne kommun,68680,Sunne,brobygrafiska@sunne.se,0565-16000,Hållbar varumärkesstrategi
+906,Sunne kommun/Brobygrafiska,4,34. Sunne kommun,68680,Sunne,brobygrafiska@sunne.se,0565-16000,Traditionellt grafiskt hantverk
+907,Trafikverket Trafikverksskolan,4,Box 1262,26224,Ängelholm,trafikverksskolan@trafikverket.se,010-1243000,Järnvägstekniker / kvalificerad bantekniker
+908,Trafikverket Trafikverksskolan,4,Box 1262,26224,Ängelholm,trafikverksskolan@trafikverket.se,010-1243000,Järnvägstekniker / Kvalificerad kontaktledningstekniker
+909,Trafikverket Trafikverksskolan,4,Box 1262,26224,Ängelholm,trafikverksskolan@trafikverket.se,010-1243000,Järnvägstekniker / Kvalificerad signaltekniker
+910,Trafikverket Trafikverksskolan,4,Box 1262,26224,Ängelholm,trafikverksskolan@trafikverket.se,010-1243000,Lokförare
+911,Stiftelsen PROTEKO - Nordiska Textilakademin,4,Box 55008,50630,Borås,info@nordiskatextilakademin.se,033-410107,Business representative in textile & fashion
+912,Stiftelsen PROTEKO - Nordiska Textilakademin,4,Box 55008,50630,Borås,info@nordiskatextilakademin.se,033-410107,Design för en cirkulär textilbransch
+913,Stiftelsen PROTEKO - Nordiska Textilakademin,4,Box 55008,50630,Borås,info@nordiskatextilakademin.se,033-410107,Hållbar Kvalitets- och produktionsutvecklare inom textil
+914,Stiftelsen PROTEKO - Nordiska Textilakademin,4,Box 55008,50630,Borås,info@nordiskatextilakademin.se,033-410107,Internationell inköpare inom textil/mode/funktion
+915,"Oskarshamns kommun, Nova Utbildning, FoU & Affärsutveckling",4,Box 706,57228,Oskarshamn,nova@oskarshamn.se,010-3560180,Drifttekniker/Processoperatör
+916,"Oskarshamns kommun, Nova Utbildning, FoU & Affärsutveckling",4,Box 706,57228,Oskarshamn,nova@oskarshamn.se,010-3560180,Produktionsteknik
+917,"Oskarshamns kommun, Nova Utbildning, FoU & Affärsutveckling",4,Box 706,57228,Oskarshamn,nova@oskarshamn.se,010-3560180,Specialistundersköterska inom vård och omsorg av äldre
+918,"Oskarshamns kommun, Nova Utbildning, FoU & Affärsutveckling",4,Box 706,57228,Oskarshamn,nova@oskarshamn.se,010-3560180,Tandsköterska
+919,ProTrain Utbildning AB,4,Box 107,59521,Mjölby,daniel.stahl@protrain.se,760074866,Lokförare Malmö
+920,ProTrain Utbildning AB,4,Box 107,59521,Mjölby,daniel.stahl@protrain.se,760074866,Lokförare Mjölby
+921,ProTrain Utbildning AB,4,Box 107,59521,Mjölby,daniel.stahl@protrain.se,760074866,Lokförare Stockholm
+922,ProTrain Utbildning AB,4,Box 107,59521,Mjölby,daniel.stahl@protrain.se,760074866,Lokförare Sundsvall
+923,"Skövde kommun, Skövde Yrkeshögskola",4,Wennerbergs gata 2,54150,Skövde,vuxenutbildning@skovde.se,0500-497700,Medicinsk vårdadministratör
+924,"Skövde kommun, Skövde Yrkeshögskola",4,Wennerbergs gata 2,54150,Skövde,vuxenutbildning@skovde.se,0500-497700,Specialistundersköterska inom Ambulanssjukvård
+925,"Skövde kommun, Skövde Yrkeshögskola",4,Wennerbergs gata 2,54150,Skövde,vuxenutbildning@skovde.se,0500-497700,Specialistundersköterska inom vård och omsorg av äldre
+926,"Skövde kommun, Skövde Yrkeshögskola",4,Wennerbergs gata 2,54150,Skövde,vuxenutbildning@skovde.se,0500-497700,Stödpedagog inom funktionshinderområdet
+927,NBI i Sverige AB,4,Stora Nygatan 52,21137,Malmö,yh@nbi-handelsakademin.se,720503728,Digital Redovisningsekonom/Konsult med löneadministration
+928,NBI i Sverige AB,4,Stora Nygatan 52,21137,Malmö,yh@nbi-handelsakademin.se,720503728,Inköp & Supply Management
+929,NBI i Sverige AB,4,Stora Nygatan 52,21137,Malmö,yh@nbi-handelsakademin.se,720503728,Logistics Planner
+930,NBI i Sverige AB,4,Stora Nygatan 52,21137,Malmö,yh@nbi-handelsakademin.se,720503728,Paralegal
+931,"Härnösands kommun, Yrkeshögskolan",4,Härnösands kommun YH Heta Utbildningar,87180,Härnösand,info@hetautbildningar.se,0611-348000,Certifierad kyl- och värmepumptekniker inriktning energieffektiva system
+932,"Härnösands kommun, Yrkeshögskolan",4,Härnösands kommun YH Heta Utbildningar,87180,Härnösand,info@hetautbildningar.se,0611-348000,Driftingenjör Elkraft
+933,"Härnösands kommun, Yrkeshögskolan",4,Härnösands kommun YH Heta Utbildningar,87180,Härnösand,info@hetautbildningar.se,0611-348000,Stadsodlare
+934,"Härnösands kommun, Yrkeshögskolan",4,Härnösands kommun YH Heta Utbildningar,87180,Härnösand,info@hetautbildningar.se,0611-348000,Underhållsingenjör
+935,Iterum Education AB,4,c/o Mediainstitutet,11353,Stockholm,linda.iterum@elevera.org,08-675 07 70,Lönespecialist
+936,Iterum Education AB,4,c/o Mediainstitutet,11353,Stockholm,linda.iterum@elevera.org,08-675 07 70,Lönespecialist med systeminriktning
+937,Iterum Education AB,4,c/o Mediainstitutet,11353,Stockholm,linda.iterum@elevera.org,08-675 07 70,Pensioner och försäkringar på svensk arbetsmarknad
+938,Iterum Education AB,4,c/o Mediainstitutet,11353,Stockholm,linda.iterum@elevera.org,08-675 07 70,Redovisningsekonom
+939,Kunskapscompaniet Ankaret AB,4,Köpmangatan 1,63356,Eskilstuna,info@kunskapscompaniet.se,016-147470,CNC - och Robottekniker
+940,Kunskapscompaniet Ankaret AB,4,Köpmangatan 1,63356,Eskilstuna,info@kunskapscompaniet.se,016-147470,CNC- och Robottekniker
+941,Kunskapscompaniet Ankaret AB,4,Köpmangatan 1,63356,Eskilstuna,info@kunskapscompaniet.se,016-147470,"Specialist, industriell mätteknik"
+942,Kunskapscompaniet Ankaret AB,4,Köpmangatan 1,63356,Eskilstuna,info@kunskapscompaniet.se,016-147470,"Underhållstekniker, industri"
+943,Hvilan Utbildning AB,4,Kabbarpsvägen 126,23252,Åkarp,info@hvilanutbildning.se,040-463700,Arborist
+944,Hvilan Utbildning AB,4,Kabbarpsvägen 126,23252,Åkarp,info@hvilanutbildning.se,040-463700,Praktisk skogs- och naturvårdare
+945,Hvilan Utbildning AB,4,Kabbarpsvägen 126,23252,Åkarp,info@hvilanutbildning.se,040-463700,Trädgårdsmästare - Hållbar parkförvaltning och ekosystemtjänster
+946,Hvilan Utbildning AB,4,Kabbarpsvägen 126,23252,Åkarp,info@hvilanutbildning.se,040-463700,"Trädgårdsmästare – odling, förädling och entreprenörskap"
+947,Hermods AB Malmö,4,Drottninggatan 4B,21211,Malmö,yh@hermods.se,08-41025100,Anläggningsingenjör - Infrastruktur
+948,Hermods AB Malmö,4,Drottninggatan 4B,21211,Malmö,yh@hermods.se,08-41025100,Internationell transportlogistiker
+949,Hermods AB Malmö,4,Drottninggatan 4B,21211,Malmö,yh@hermods.se,08-41025100,Teknikinformatör
+950,Hermods AB Malmö,4,Drottninggatan 4B,21211,Malmö,yh@hermods.se,08-41025100,Ventilationstekniker
+951,AVT AB,4,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,010-5855850,Automations- & Underhållstekniker
+952,AVT AB,4,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,010-5855850,"Drifttekniker, Kraft & Värme / Process"
+953,AVT AB,4,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,010-5855850,Inköpare & Upphandlare med hållbarhetskompetens
+954,AVT AB,4,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,010-5855850,Logistiker med hållbarhetskompetens
+955,"Arboga kommun, Vuxenutbildningen",4,Box 2,73221,Arboga,naiomi.norman@arboga.se,073-7657477,"Elkraftingenjör- produktion, distribution och miljö"
+956,"Arboga kommun, Vuxenutbildningen",4,Box 2,73221,Arboga,naiomi.norman@arboga.se,073-7657477,Specialistundersköterska inom vård och omsorg av äldre
+957,"Arboga kommun, Vuxenutbildningen",4,Box 2,73221,Arboga,naiomi.norman@arboga.se,073-7657477,Stödpedagog inom funktionshinderområdet
+958,"Arboga kommun, Vuxenutbildningen",4,Box 2,73221,Arboga,naiomi.norman@arboga.se,073-7657477,Underhållsingenjör
+959,EC Utbildning AB Växjö,4,Storgatan 82A,35246,Växjö,info@ecutbildning.se,040-6416300,CAD-konstruktör
+960,EC Utbildning AB Växjö,4,Storgatan 82A,35246,Växjö,info@ecutbildning.se,040-6416300,Cloud- och Infrastrukturspecialist
+961,EC Utbildning AB Växjö,4,Storgatan 82A,35246,Växjö,info@ecutbildning.se,040-6416300,Frontendutvecklare
+962,EC Utbildning AB Växjö,4,Storgatan 82A,35246,Växjö,info@ecutbildning.se,040-6416300,Javautvecklare
+963,Båstads kommun Akademi Båstad,4,"Akademi Båstad Yrkeshögskola, 26980 Båstad",26980,Båstad,infoakademi@bastad.se,0431-772 18,Kvalificerad trädgårdsanläggare
+964,Båstads kommun Akademi Båstad,4,"Akademi Båstad Yrkeshögskola, 26980 Båstad",26980,Båstad,infoakademi@bastad.se,0431-772 18,Kvalificerad trädgårdsmästare – hållbar utemiljöförvaltning
+965,Båstads kommun Akademi Båstad,4,"Akademi Båstad Yrkeshögskola, 26980 Båstad",26980,Båstad,infoakademi@bastad.se,0431-772 18,Operativ ledare – inriktning Revenue Management
+966,Båstads kommun Akademi Båstad,4,"Akademi Båstad Yrkeshögskola, 26980 Båstad",26980,Båstad,infoakademi@bastad.se,0431-772 18,Specialistundersköterska inom hälso- och sjukvård
+967,Folkuniversitetet - Kursverksamheten vid Stockholms universitet,4,Box 6901,10239,Stockholm,direkt@folkuniversitetet.se,08-789 42 00,Drift- och fastighetstekniker
+968,Folkuniversitetet - Kursverksamheten vid Stockholms universitet,4,Box 6901,10239,Stockholm,direkt@folkuniversitetet.se,08-789 42 00,Fastighetsförvaltare
+969,Folkuniversitetet - Kursverksamheten vid Stockholms universitet,4,Box 6901,10239,Stockholm,direkt@folkuniversitetet.se,08-789 42 00,Rekryterare
+970,Folkuniversitetet - Kursverksamheten vid Stockholms universitet,4,Box 6901,10239,Stockholm,direkt@folkuniversitetet.se,08-789 42 00,Retuschör - Bilddesigner
+971,EC Utbildning AB Stockholm,4,Drottningholmsvägen 37,11242,Stockholm,info@ecutbildning.se,040-6416300,Byggprojektör BIM
+972,EC Utbildning AB Stockholm,4,Drottningholmsvägen 37,11242,Stockholm,info@ecutbildning.se,040-6416300,CAD-konstruktör
+973,EC Utbildning AB Stockholm,4,Drottningholmsvägen 37,11242,Stockholm,info@ecutbildning.se,040-6416300,Mjukvarutestare
+974,EC Utbildning AB Stockholm,4,Drottningholmsvägen 37,11242,Stockholm,info@ecutbildning.se,040-6416300,Technical Operations Specialist
+975,Tension Education AB,3,Trotzgatan 29,79172,Falun,info@tension.se,023 298 00,"PlaygroundSquad, Upplevelse- och Speldesign"
+976,Tension Education AB,3,Trotzgatan 29,79172,Falun,info@tension.se,023 298 00,"PlaygroundSquad, Upplevelse- och Spelgrafik"
+977,Tension Education AB,3,Trotzgatan 29,79172,Falun,info@tension.se,023 298 00,"PlaygroundSquad, Upplevelse- och Spelprogrammering"
+978,Åsbro Kursgård AB,3,Knottebo 222,69496,Åsbro,anne.kataja@asbro.se,0582-83850,Anläggningsmontör Storkraftnät
+979,Åsbro Kursgård AB,3,Knottebo 222,69496,Åsbro,anne.kataja@asbro.se,0582-83850,Projektledare Elkraft
+980,Åsbro Kursgård AB,3,Knottebo 222,69496,Åsbro,anne.kataja@asbro.se,0582-83850,Servicetekniker Elkraft
+981,Skill Utbildning AB,3,Gelbgjutaregatan 2,58254,Linköping,magnus@molk.com,735324127,"3D-tekniker, Additiv teknik i metall"
+982,Skill Utbildning AB,3,Gelbgjutaregatan 2,58254,Linköping,magnus@molk.com,735324127,AI: Grundläggande praktisk maskininlärning
+983,Skill Utbildning AB,3,Gelbgjutaregatan 2,58254,Linköping,magnus@molk.com,735324127,Internet of Things med Python och C/C++
+984,Stiftelsen Tillskärarakademin i Göteborg,3,Väverigatan 6,41511,Göteborg,rektor@tillskararakademin.se,31152275,Modist
+985,Stiftelsen Tillskärarakademin i Göteborg,3,Väverigatan 6,41511,Göteborg,rektor@tillskararakademin.se,31152275,Mönsterkonstruktör
+986,Stiftelsen Tillskärarakademin i Göteborg,3,Väverigatan 6,41511,Göteborg,rektor@tillskararakademin.se,31152275,"Skräddare - herr, dam och klänning"
+987,Stiftelsen Stenebyskolan,3,Hemslöjdsvägen 1,66010,Dals Långed,info@steneby.se,53171000,Finsnickare eller Möbelrestaurerare
+988,Stiftelsen Stenebyskolan,3,Hemslöjdsvägen 1,66010,Dals Långed,info@steneby.se,53171000,"Finsnickare, möbelrestaurerare, dekopör med inriktning mot gesällbrev eller yrkes-specialisering"
+989,Stiftelsen Stenebyskolan,3,Hemslöjdsvägen 1,66010,Dals Långed,info@steneby.se,53171000,Möbeltapetserare
+990,TEC Travel Education Centre AB,3,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,"Hållbar produktutveckling, Naturturism"
+991,TEC Travel Education Centre AB,3,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,Management inom hotell och besöksnäring
+992,TEC Travel Education Centre AB,3,Tulegatan 41,11353,Stockholm,linda.sahin@elevera.org,08-4429500,TRAC turism- och resekonsult med internationell IATA
+993,Yrkesutbildaren Habo AB,3,Bagaregatan 40,56633,Habo,anders@yrkesutbildaren.se,724471278,Anslutningsingenjör Elkraft
+994,Yrkesutbildaren Habo AB,3,Bagaregatan 40,56633,Habo,anders@yrkesutbildaren.se,724471278,Solenergiprojektör
+995,Yrkesutbildaren Habo AB,3,Bagaregatan 40,56633,Habo,anders@yrkesutbildaren.se,724471278,Ställverksspecialist
+996,Sveriges Yrkeshögskola AB - Malmö Yrkeshögskola,3,Anckargripsgatan 3,21119,Malmö,info@my.se,0200-210999,Programmerare iPhone och Android
+997,Sveriges Yrkeshögskola AB - Malmö Yrkeshögskola,3,Anckargripsgatan 3,21119,Malmö,info@my.se,0200-210999,Content Producer
+998,Sveriges Yrkeshögskola AB - Malmö Yrkeshögskola,3,Anckargripsgatan 3,21119,Malmö,info@my.se,0200-210999,Maskininlärning On-Premise och On-Device
+999,Lidköpings kommun Campus Lidköping,3,Fabriksgatan 2,53130,Lidköping,campuslidkoping@edu.lidkoping.se,0510-771515,Laborant
+1000,Lidköpings kommun Campus Lidköping,3,Fabriksgatan 2,53130,Lidköping,campuslidkoping@edu.lidkoping.se,0510-771515,Operativ digital kommunikatör
+1001,Lidköpings kommun Campus Lidköping,3,Fabriksgatan 2,53130,Lidköping,campuslidkoping@edu.lidkoping.se,0510-771515,Operativ Produktionstekniker
+1002,Montico Kompetensutveckling AB,3,Box 416,57325,Tranås,info@montico.se,010-2659500,Byggnadsinspektör/tillsynshandläggare PBL
+1003,Montico Kompetensutveckling AB,3,Box 416,57325,Tranås,info@montico.se,010-2659500,Lönehantering för redovisningskonsulter
+1004,Montico Kompetensutveckling AB,3,Box 416,57325,Tranås,info@montico.se,010-2659500,Lönekonsult med systeminriktning
+1005,Företagsuniversitetet AB,3,Vasagatan 28,11120,Stockholm,yh@foretagsuniversitetet.se,08-6006200,Cybersäkerhet
+1006,Företagsuniversitetet AB,3,Vasagatan 28,11120,Stockholm,yh@foretagsuniversitetet.se,08-6006200,Fullstack-utvecklare
+1007,Företagsuniversitetet AB,3,Vasagatan 28,11120,Stockholm,yh@foretagsuniversitetet.se,08-6006200,Säkerhets- och beredskapssamordnare
+1008,"Enköpings kommun, Yrkeshögskolan i Enköping",3,Östra Järnvägsgatan 10,74537,Enköping,anna.moller@enkoping.se,0171-627257,Cirkulär odlingsutvecklare
+1009,"Enköpings kommun, Yrkeshögskolan i Enköping",3,Östra Järnvägsgatan 10,74537,Enköping,anna.moller@enkoping.se,0171-627257,IT-säkerhetsingenjör
+1010,"Enköpings kommun, Yrkeshögskolan i Enköping",3,Östra Järnvägsgatan 10,74537,Enköping,anna.moller@enkoping.se,0171-627257,Trädgårdsmästare
+1011,EC Utbildning AB Göteborg,3,Pumpgatan 1,41755,Göteborg,info@ecutbildning.se,040-6416300,Data Scientist
+1012,EC Utbildning AB Göteborg,3,Pumpgatan 1,41755,Göteborg,info@ecutbildning.se,040-6416300,IT-säkerhetsutvecklare
+1013,EC Utbildning AB Göteborg,3,Pumpgatan 1,41755,Göteborg,info@ecutbildning.se,040-6416300,Testning för utvecklare
+1014,Kunskapsgruppen Yrkeshögskola Sverige AB,3,Kungstorget 5,41117,Göteborg,yh@kunskapsgruppen.se,31285030,Akustik inom samhällsbyggnad
+1015,Kunskapsgruppen Yrkeshögskola Sverige AB,3,Kungstorget 5,41117,Göteborg,yh@kunskapsgruppen.se,31285030,Lagerstyrning - hållbarhet och AI
+1016,Kunskapsgruppen Yrkeshögskola Sverige AB,3,Kungstorget 5,41117,Göteborg,yh@kunskapsgruppen.se,31285030,Robottekniker
+1017,Malmö Tillskärarakademi AB,3,Norra Vallgatan 16,21125,Malmö,info@tillskararakademinmalmo.se,-2690953,Designer-/produktutvecklare med 3D kompetens
+1018,Malmö Tillskärarakademi AB,3,Norra Vallgatan 16,21125,Malmö,info@tillskararakademinmalmo.se,-2690953,Mönsterkonstruktion/design - CLO3D
+1019,Malmö Tillskärarakademi AB,3,Norra Vallgatan 16,21125,Malmö,info@tillskararakademinmalmo.se,-2690953,"Mönsterkonstruktion/design - CLO3D, fördjupning"
+1020,KYH AB Stockholm,3,Årstaängsvägen 33,11743,Stockholm,peter.brasch@kyh.se,076-8852124,Fastighetstekniker
+1021,KYH AB Stockholm,3,Årstaängsvägen 33,11743,Stockholm,peter.brasch@kyh.se,076-8852124,Projektledare solenergi
+1022,KYH AB Stockholm,3,Årstaängsvägen 33,11743,Stockholm,peter.brasch@kyh.se,076-8852124,Systemutvecklare med inriktning industriell IT-säkerhet
+1023,"Olofströms kommun, Yrkeshögskolan Syd",3,Box 302,29324,Olofström,yhs@olofstrom.se,0454-93000,Automationsingenjör - Robot
+1024,"Olofströms kommun, Yrkeshögskolan Syd",3,Box 302,29324,Olofström,yhs@olofstrom.se,0454-93000,Processtekniker - Smart industri
+1025,"Olofströms kommun, Yrkeshögskolan Syd",3,Box 302,29324,Olofström,yhs@olofstrom.se,0454-93000,Ridlärare
+1026,"Nässjö kommun, Nässjöakademin",3,Framtidsvägen 1,57122,Nässjö,larcenter@nassjo.se,0380-517251,Kvalificerad kontaktledningstekniker
+1027,"Nässjö kommun, Nässjöakademin",3,Framtidsvägen 1,57122,Nässjö,larcenter@nassjo.se,0380-517251,Lokförare
+1028,"Nässjö kommun, Nässjöakademin",3,Framtidsvägen 1,57122,Nässjö,larcenter@nassjo.se,0380-517251,Vindkraftstekniker
+1029,IRC Ljungby AB,3,Garvaren,34160,Ljungby,info@ircyh.se,0372-780010,Hydraultekniker - Fluida System
+1030,IRC Ljungby AB,3,Garvaren,34160,Ljungby,info@ircyh.se,0372-780010,IT-infrastrukturtekniker - moln & säkerhet
+1031,IRC Ljungby AB,3,Garvaren,34160,Ljungby,info@ircyh.se,0372-780010,Servicetekniker - industri & automation
+1032,Hermods AB Lund,3,Drottninggatan 4B,21141,Malmö,yh@hermods.se,031-757 9349,Automations- och Robotingenjör med Industri 4.0
+1033,Hermods AB Lund,3,Drottninggatan 4B,21141,Malmö,yh@hermods.se,031-757 9349,CNC- och robottekniker
+1034,Hermods AB Lund,3,Drottninggatan 4B,21141,Malmö,yh@hermods.se,031-757 9349,Företagssäljare/B2B
+1035,Gunnebo Slott och Trädgårdar AB,3,Christina Halls väg,43136,Mölndal,johnny.mattsson@gunneboslott.se,031- 334 16 00,"Stenmurar- underhåll, restaurering och anläggning"
+1036,Gunnebo Slott och Trädgårdar AB,3,Christina Halls väg,43136,Mölndal,johnny.mattsson@gunneboslott.se,031- 334 16 00,"Trädgårdsmästare- natur, kultur och hållbarhet"
+1037,Gunnebo Slott och Trädgårdar AB,3,Christina Halls väg,43136,Mölndal,johnny.mattsson@gunneboslott.se,031- 334 16 00,"Ängar - skötsel, anläggning och restaurering"
+1038,Föreningen Mellansels folkhögskola,3,Tingshusgatan 8,89540,Mellansel,info@mfhs.se,0661-65 44 00,Kyrkomusiker 100%
+1039,Föreningen Mellansels folkhögskola,3,Tingshusgatan 8,89540,Mellansel,info@mfhs.se,0661-65 44 00,Kyrkomusiker 50%
+1040,Föreningen Mellansels folkhögskola,3,Tingshusgatan 8,89540,Mellansel,info@mfhs.se,0661-65 44 00,Musikmakarna - Songwriters Academy of Sweden
+1041,Amsac Kompetenspartner YH AB,2,Knähammar 228,45195,Uddevalla,amsac@telia.com,102099039,Elkrafttekniker för högspänningsanläggningar
+1042,Amsac Kompetenspartner YH AB,2,Knähammar 228,45195,Uddevalla,amsac@telia.com,102099039,Produktionsledare och planerare för cirkulär produktion
+1043,Consensum YH L,2,Sankt Lars väg Byggnad 20,22270,Lund,info@consensum-yh.se,073-4349340,Specialistutbildad undersköterska inom demens
+1044,Consensum YH L,2,Sankt Lars väg Byggnad 20,22270,Lund,info@consensum-yh.se,073-4349340,Specialistutbildad undersköterska inom psykisk ohälsa
+1045,Chas Academy Extended,2,Arenavägen 61,12177,Johanneshov,anders.wikstrom@chasacademy.se,070-2901538,Fullstackutvecklare JavaScript
+1046,Chas Academy Extended,2,Arenavägen 61,12177,Johanneshov,anders.wikstrom@chasacademy.se,070-2901538,Systemutvecklare C/C++
+1047,Bergsskolan Kompetensutveckling AB,2,Bergsskolegatan 1,68233,Filipstad,susanne.jonson@bergsskolan.se,735238800,Bergsskoleingenjör - Metallurgi och Materialteknik
+1048,Bergsskolan Kompetensutveckling AB,2,Bergsskolegatan 1,68233,Filipstad,susanne.jonson@bergsskolan.se,735238800,Bergsskoletekniker - Metallurgi och Materialteknik
+1049,Yrkeshögskolan Halmstad,2,Box 248,30244,Halmstad,utbildning.arbetsmarknadsforvaltningen@halmstad.se,070-628 73 26,Automations- och digitaliseringsingenjör
+1050,Yrkeshögskolan Halmstad,2,Box 248,30244,Halmstad,utbildning.arbetsmarknadsforvaltningen@halmstad.se,070-628 73 26,Elkraftsingenjör
+1051,Yrkeshögskolan Malmö stad,2,"Komvux, Yrkeshögskolan Malmö stad",20580,Malmö,komvux@malmo.se,040-342000,Service Manager
+1052,Yrkeshögskolan Malmö stad,2,"Komvux, Yrkeshögskolan Malmö stad",20580,Malmö,komvux@malmo.se,040-342000,Tandsköterska
+1053,Umeå kommun - Dragonskolan,2,Centrum för vuxenutbildning Yh,90184,Umeå,yrkeshogskolan@umea.se,90161214,"Byggnadsvårdsingenjör - arbetsledning, renovering och återbruk"
+1054,Umeå kommun - Dragonskolan,2,Centrum för vuxenutbildning Yh,90184,Umeå,yrkeshogskolan@umea.se,90161214,CNC Tekniker - blått certifikat
+1055,Umeå kommun - Forslundagymnasiet,2,Centrum för vuxenutbildning Yh,90184,Umeå,yrkeshogskolan@umea.se,90161214,Driftledare lantbruk
+1056,Umeå kommun - Forslundagymnasiet,2,Centrum för vuxenutbildning Yh,90184,Umeå,yrkeshogskolan@umea.se,90161214,Ridlärare
+1057,"Upplands-Bro kommun, Vuxenutbildningen",2,Kyrkvägen 6,19630,Kungsängen,robert.vaardahl@upplands-bro.se,858132071,"Drifttekniker - värme, vatten, cirkuläritet"
+1058,"Upplands-Bro kommun, Vuxenutbildningen",2,Kyrkvägen 6,19630,Kungsängen,robert.vaardahl@upplands-bro.se,858132071,Trafiklärare
+1059,Umeå kommun - Umevux,2,Centrum för vuxenutbildning Yh,90184,Umeå,yrkeshogskolan@umea.se,90161214,"Specialiserad undersköterska, inriktning psykiatri"
+1060,Umeå kommun - Umevux,2,Centrum för vuxenutbildning Yh,90184,Umeå,yrkeshogskolan@umea.se,90161214,Tandsköterska
+1061,Utbildarna i Helsingborg AB,2,Motorgatan 2,25227,Helsingborg,info@utbildarna.com,42326800,Trafiklärare
+1062,Utbildarna i Helsingborg AB,2,Motorgatan 2,25227,Helsingborg,info@utbildarna.com,42326800,Trafiklärarutbildning
+1063,Örebro kommun Yrkesutbildningscenter,2,Box 32180,70135,Örebro,amanda.wiren@orebro.se,019-216190,Specialistundersköterska inom vård och omsorg av äldre
+1064,Örebro kommun Yrkesutbildningscenter,2,Box 32180,70135,Örebro,amanda.wiren@orebro.se,019-216190,Specialistundersköterska Psykisk ohälsa/Skötare
+1065,Sälj & Marknadshögskolan i Sverige AB - Stockholm,2,Drottningholmsvägen 37,11242,Stockholm,info@smhsverige.se,010-7094100,Internationell säljare och marknadsförare
+1066,Sälj & Marknadshögskolan i Sverige AB - Stockholm,2,Drottningholmsvägen 37,11242,Stockholm,info@smhsverige.se,010-7094100,Key Account Manager
+1067,Sjösportskolan Swedish Maritime Academy AB,2,Talattagatan 22,42676,Västra Frölunda,info@sjosportskolan.se,031-292030,"Fartygs- och Maskinbefäl 8, Skärgårdsentreprenör"
+1068,Sjösportskolan Swedish Maritime Academy AB,2,Talattagatan 22,42676,Västra Frölunda,info@sjosportskolan.se,031-292030,Marintekniker miljöoptimering
+1069,Sinnescentrum,2,"Hälsans hus, ingång 15, plan 12, Universitetssjukhuset",58185,Linköping,cecilia.m.andersson@regionostergotland.se,725192353,Specialistundersköterska akut- och intensivvård
+1070,Sinnescentrum,2,"Hälsans hus, ingång 15, plan 12, Universitetssjukhuset",58185,Linköping,cecilia.m.andersson@regionostergotland.se,725192353,Specialistundersköterska anestesi- och operationssjukvård
+1071,One Academy AB,2,Rögrundsvägen 4,13467,Ingarö,ann.bertling@oneacademy.se,763981308,Demand chain management - digitala lösningar för hållbara globala försörjningskedjor
+1072,One Academy AB,2,Rögrundsvägen 4,13467,Ingarö,ann.bertling@oneacademy.se,763981308,Strategiskt inköp och upphandling
+1073,Sociala Tjänstehundar i Sverige AB/Svenska Terapihundskolan,2,Ridhusvägen 6,73494,Strömsholm,Info@terapihundskolan.se,101719999,Skolhundspedagog - Hundunderstödd pedagogik
+1074,Sociala Tjänstehundar i Sverige AB/Svenska Terapihundskolan,2,Ridhusvägen 6,73494,Strömsholm,Info@terapihundskolan.se,101719999,Skolhundspedagog/Resurspedagog - hundunderstödd pedagogik
+1075,Miljötekniska Yrkeshögskolan i Sverige AB,2,Observatoriegatan 15,11329,Stockholm,carl@mtyh.se,072-3509405,Rörinspektör Mark/Fastighet
+1076,Miljötekniska Yrkeshögskolan i Sverige AB,2,Observatoriegatan 15,11329,Stockholm,carl@mtyh.se,072-3509405,Spol- och Reliningstekniker
+1077,Stockholms Tillskärarakademi,2,Box 19193,10432,Stockholm,info@tillskararakademin.com,101576212,3D-visualiserare inom mode och konfektion
+1078,Stockholms Tillskärarakademi,2,Box 19193,10432,Stockholm,info@tillskararakademin.com,101576212,Mönsterkonstruktör
+1079,Sälj & Marknadshögskolan i Sverige AB,2,Drottningholmsvägen 37,11242,Stockholm,info@smhsverige.se,010-7094100,Hållbar affärsutveckling
+1080,Sälj & Marknadshögskolan i Sverige AB,2,Drottningholmsvägen 37,11242,Stockholm,info@smhsverige.se,010-7094100,Influencer marketing
+1081,Näringslivsakademin,2,Essingestråket 15,11266,Stockholm,info@naringslivsakademin.se,708544777,Inköpare med hållbarhetskompetens
+1082,Näringslivsakademin,2,Essingestråket 15,11266,Stockholm,info@naringslivsakademin.se,708544777,Kommunikativ Redovisningsekonom
+1083,"Lerums kommun, Vuxenutbildningen",2,Lerum,44380,Lerum,vuxenutbildningen@lerum.se,0302-52 13 61,Hovslagarutbildning
+1084,"Lerums kommun, Vuxenutbildningen",2,Lerum,44380,Lerum,vuxenutbildningen@lerum.se,0302-52 13 61,Trafiklärare
+1085,Flyinge AB,2,Box 3,24729,Flyinge,info@flyinge.se,708597636,Beridarutbildning
+1086,Flyinge AB,2,Box 3,24729,Flyinge,info@flyinge.se,708597636,Hovslagarutbildningen
+1087,Högskolan Väst,2,Gustava Melins gata 2,46132,Trollhättan,registrator@hv.se,0520-223000,"Elkrafttekniker, inriktning hållbara elsystem"
+1088,Högskolan Väst,2,Gustava Melins gata 2,46132,Trollhättan,registrator@hv.se,0520-223000,Specialist inom svetsautomation
+1089,Hermods AB Helsingborg,2,Södergatan 78,25227,Helsingborg,yh@hermods.se,08-410 251 00,Internationell affärslogistiker inriktning hållbarhet och digitalisering
+1090,Hermods AB Helsingborg,2,Södergatan 78,25227,Helsingborg,yh@hermods.se,08-410 251 00,VVS-ingenjör
+1091,Hantverksakademin i Sverige AB,2,Vasagatan 46,11120,Stockholm,info@hantverksakademin.se,850589800,Fördjupad lärlingsutbildning inom traditionellt och hållbart hantverk
+1092,Hantverksakademin i Sverige AB,2,Vasagatan 46,11120,Stockholm,info@hantverksakademin.se,850589800,Lärlingsutbildning inom traditionellt hantverk
+1093,Hälsohögskolan i Jönköping AB,2,Box 1026,55111,Jönköping,annica.herentz-brobakken@ju.se,722236141,Ortopedtekniker
+1094,Hälsohögskolan i Jönköping AB,2,Box 1026,55111,Jönköping,annica.herentz-brobakken@ju.se,722236141,Stödpedagog inom funktionshinderområdet
+1095,Hudvårdshögskolan IBS,2,Smedjegatan 18,13154,Nacka,info@hudvardshogskolan.se,86533641,Hud- och Spaterapeut
+1096,Hudvårdshögskolan IBS,2,Smedjegatan 18,13154,Nacka,info@hudvardshogskolan.se,86533641,Hud-och Spaterapeut
+1097,"ITH, Institutet För Tillämpad Hydraulik",2,Sörbyvägen 1,89161,Örnsköldsvik,ith@ith.se,0660-798 50,Hydraulsystemtekniker
+1098,"ITH, Institutet För Tillämpad Hydraulik",2,Sörbyvägen 1,89161,Örnsköldsvik,ith@ith.se,0660-798 50,Hydraultekniker
+1099,"Härryda kommun, Yrkeshögskolan i Mölnlycke",2,Härryda kommun,43580,Mölnlycke,anette.ambren@harryda.se,031-7246660,Lönespecialist
+1100,"Härryda kommun, Yrkeshögskolan i Mölnlycke",2,Härryda kommun,43580,Mölnlycke,anette.ambren@harryda.se,031-7246660,Tullspecialist (CCS)
+1101,"Kartotek, Kart- och teknikutbildarna i Haninge AB",2,Isafjordsgatan 28A,16440,Kista,stig@kartotek.se,87450210,Mätnings- och kartteknik
+1102,"Kartotek, Kart- och teknikutbildarna i Haninge AB",2,Isafjordsgatan 28A,16440,Kista,stig@kartotek.se,87450210,Specialiserad mätningsteknik för järnväg och anläggning
+1103,"Kristinehamns kommun, Komvux",2,3 Vuxenutbildningen,68184,Kristinehamn,robert.rahmn@kristinehamn.se,0550-88000,Lokförarutbildning
+1104,"Kristinehamns kommun, Komvux",2,3 Vuxenutbildningen,68184,Kristinehamn,robert.rahmn@kristinehamn.se,0550-88000,Medicinsk vårdadministratör
+1105,Audio Production Academy AB,2,Drottninggatan 92,11136,Stockholm,malin@apacademy.se,8000000,Game Audio Producent & Sound Designer
+1106,Audio Production Academy AB,2,Drottninggatan 92,11136,Stockholm,malin@apacademy.se,8000000,Ljud & Musikproducent
+1107,"Lapplands kommunalförbund, Lapplands lärcentra",2,Kansliet,98185,Kiruna,susanne.andersson@lapplands.se,0980-75555,Bergmaterialingenjör
+1108,"Lapplands kommunalförbund, Lapplands lärcentra",2,Kansliet,98185,Kiruna,susanne.andersson@lapplands.se,0980-75555,Processtekniker med vätgaskompetens
+1109,Sollefteå kommun - Reveljen,2,Nipan 2,88152,Sollefteå,anita.soder@utb.solleftea.se,076-1063035,Socialpedagog
+1110,Sollefteå kommun - Reveljen,2,Nipan 2,88152,Sollefteå,anita.soder@utb.solleftea.se,076-1063035,Stödpedagog
+1111,Köpings kommun,2,Köpings kommun Kompetenscenter,73185,Köping,anna-klara.sjolund@koping.se,0221-25520,Produktionstekniker
+1112,Köpings kommun,2,Köpings kommun Kompetenscenter,73185,Köping,anna-klara.sjolund@koping.se,0221-25520,Specialistundersköterska inom vård och omsorg av äldre
+1113,Fastighetsakademin Sverige AB,2,J A Wettergrens gata 14,42130,Västra Frölunda,info@fastighetsakademin.se,031-734 11 60,Fastighets- och energitekniker
+1114,Fastighetsakademin Sverige AB,2,J A Wettergrens gata 14,42130,Västra Frölunda,info@fastighetsakademin.se,031-734 11 60,Fastighetsförvaltare med teknisk inriktning
+1115,Formakademin i Lidköping AB,2,Fabriksgatan 4,53130,Lidköping,info@formakademin.se,0510-24800,Designmodellör
+1116,Formakademin i Lidköping AB,2,Fabriksgatan 4,53130,Lidköping,info@formakademin.se,0510-24800,Produktionsdrejare
+1117,EC Utbildning AB Örebro,2,Stenbackevägen 6,70225,Örebro,info@ecutbildning.se,040-641 63 00,CAD-konstruktör
+1118,EC Utbildning AB Örebro,2,Stenbackevägen 6,70225,Örebro,info@ecutbildning.se,040-641 63 00,Server- och virtualiseringsspecialist
+1119,"Eslövs kommun, Yrkeshögskolan i Eslöv",2,Östergatan 15,24139,Eslöv,yhmis@eslov.se,0413-62514,"Produktionstekniker, inriktning ständiga förbättringar/Lean production"
+1120,"Eslövs kommun, Yrkeshögskolan i Eslöv",2,Östergatan 15,24139,Eslöv,yhmis@eslov.se,0413-62514,Psykiatri- och Socialpsykiatrihandledare
+1121,EC Utbildning AB Halmstad,2,Stationsgatan 39,30250,Halmstad,info@ecutbildning.se,040-6416300,Byggprojektör BIM
+1122,EC Utbildning AB Halmstad,2,Stationsgatan 39,30250,Halmstad,info@ecutbildning.se,040-6416300,IT-säkerhetsutvecklare
+1123,EC Utbildning AB Helsingborg,2,Södergatan 78,25227,Helsingborg,info@ecutbildning.se,040-6416300,Data Scientist
+1124,EC Utbildning AB Helsingborg,2,Södergatan 78,25227,Helsingborg,info@ecutbildning.se,040-6416300,Webbutvecklare inom .NET
+1125,Consensus Sverige AB,2,Boställsvägen 1 B,70227,Örebro,yh@consensus.nu,019-265410,Medicinsk vårdadministratör
+1126,Consensus Sverige AB,2,Boställsvägen 1 B,70227,Örebro,yh@consensus.nu,019-265410,Trafikteknik
+1127,Dans i Göteborg AB,2,Frihamnen 16A,41755,Göteborg,office@performingartsschool.se,317016680,"Event-, Scen- och Digital Produktionsteknik"
+1128,Dans i Göteborg AB,2,Frihamnen 16A,41755,Göteborg,office@performingartsschool.se,317016680,Live-ljudtekniker
+1129,Alfta Skogstekniska Utbildning AB,1,Humlabacken 11,82240,Alfta,info@skogstekniska.se,0271-12222,Skogsbrukstekniker
+1130,Alma Löv Museum AB /Alma Education,1,Smedsby 108,68696,Östra Ämtervik,info@almamanusutbildning.com,706807767,Manusförfattare
+1131,Borlänge kommun,1,Röda vägen 50,78181,Borlänge,kommun@borlange.se,0243-74000,Underhållstekniker inom processindustrin
+1132,AGSTU AB,1,Oxbacksgatan 2B,72461,Västerås,mia.lindh@agstu.com,070-2864344,FPGA - ingenjör
+1133,Almost There AB,1,Manufakturgatan 2D,41707,Göteborg,tom@almostthere.se,703513437,Internationell Kulturproducent
+1134,Amsac AB,1,Knähammar 228,45195,Uddevalla,kontakt@amsac.se,102099039,Service och underhåll på vindkraftturbiner med Lifetime Extension
+1135,AutoElec AB,1,Torvingegatan 16,58278,Linköping,info@autoelec.se,733444011,Mekatronikingenjör - industriell konstruktion
+1136,Axelsons Gymnastiska Institut,1,Brunkebergsgatan 8,11152,Stockholm,info@axelsons.se,08-54545900,Hud- och Spaterapeut
+1137,Campus Åre/Åre kommun,1,Kurortsvägen 20,83751,Åre,campus@are.se,64716100,Vildmark & Äventyrsguide
+1138,Bergqvists Massage & Friskvårdsutbildningar AB,1,Roxviksgatan 8A,58273,Linköping,info@bergqvistutbildningar.se,013-137506,Medicinsk Massageterapeut
+1139,Gamleby Folkhögskola,1,Loftagatan 36,59432,Gamleby,gfhs.info@gamlebyfolkhogskola.se,010-3575800,TV-produktionsspecialist
+1140,Campus Ljungby AB,1,Stationsgatan 2,34160,Ljungby,info@campusljungby.se,0372-780020,Hållbar produktionsplanering för tillverkningsindustrin.
+1141,Arvika Kommun,1,Arvika Närlingslivscentrum Box 913,67129,Arvika,peo.filipsson@aanc.se,0570-81600,Kyl- och Värmepumpstekniker
+1142,Creando AB,1,Box 3048,87103,Härnösand,info@creando.se,010-1884601,Drifttekniker - processoperatör
+1143,Dille Gård AB,1,Dille 226,83695,Ås,hans.stenberg@dillegard.se,705399891,Skogsbrukstekniker - med specialkompetens mot - skoglig planering och rådgivning eller - gallringsförare
+1144,DMG Education,1,Reimersholmsgatan 4,11740,Stockholm,info@dmgeducation.se,070-353 92 96,Music Business Developer
+1145,EdUP Group AB,1,11341,11341,Stockholm,madleen.thyren@edup.se,703642373,Förhindra välfärdsbrott i kommunen
+1146,EC Utbildning AB Västerås,1,Pilgatan 2,72130,Västerås,info@ecutbildning.se,040-6416300,Frontendutvecklare
+1147,Eslövs Folkhögskola,1,Sturegatan 14,24131,Eslöv,info@eslovsfhsk.se,0413-66300,Socialpedagog
+1148,Etec Teknikutbildning AB,1,Förrådsgatan 6,57236,Oskarshamn,info@etecteknikutbildning.se,491761670,Automationsingenjör för hållbar industri 4.0
+1149,Finska folkhögskolans stiftelse,1,Spadegatan 1,42465,Angered,info@finska.fhsk.se,031-3315066,Socialpedagog
+1150,"Falköpings kommun, Lärcenter",1,Kompetens- och arbetslivsförvaltningen Yh,52181,Falköping,kan@falkoping.se,0515-887100,Guldsmed
+1151,"Folktandvården Västra Götalandsregionen, Tandsköterskeutbildningen",1,Box 71 63,40233,Göteborg,ftv.fou.tandskutb@vgregion.se,010-4417711,Tandsköterska
+1152,Forsbergs Skola,1,Skinnarviksringen 6,11727,Stockholm,info@forsbergsskola.se,86523940,"Forsbergs, Spelutvecklare – Game Programming"
+1153,"Klippans kommun, Flygteknikcenter",1,Flygteknikcenter,26480,Klippan,flygteknikcenter@klippan.se,0435-28825,Flygtekniker
+1154,Klart Skepp Marinteknik AB,1,Stocksund hamn,18278,Stocksund,info@sjoutbildning.se,08-50653290,Skärgårdskapten
+1155,"Klippans kommun, Vuxenutbildning",1,Vuxenutbildningen,26480,Klippan,komvux@klippan.se,0435-28249,Trafiklärare
+1156,"Kalmarsunds Gymnasieförbund, Axel Weüdelskolan",1,Norra Vägen 47,39234,Kalmar,komvux@gyf.se,010-3527304,Cloud and IT-infrastructure specialist
+1157,Karlsson Climate AB,1,3196A Stora Torsjö,28292,Västra Torup,petra.wahlstrom@karlssonclimate.se,730298844,"Driftingenjör inom Energi, Miljö och Kyla"
+1158,JAG Utbildning AB,1,Box 16145,10323,Stockholm,info@jag.se,87893000,Arbetsledning inom personlig assistans
+1159,Internationella Handelshögskolan i Jönköping Aktiebolag (IHH),1,Box 1026,55111,Jönköping,martin.wallin@ju.se,036-101000,Medicinsk vårdadministratör
+1160,Iris Hadar AB,1,Lövholmsvägen 18,11743,Stockholm,christer.ivarssonosterberg@irisgruppen.se,08-39 92 00,Stödpedagog inom funktionshinderområdet
+1161,Inredningskurser Sverige AB,1,Järavallsvägen 80,23733,Bjärred,anna@inredningskurser.se,705918891,Inredningsdesigner
+1162,Institutet för Högre Urmakeriutbildning i Norden AB,1,Luxorgatan 1,59139,Motala,info@urmakarskolan.com,0141-23 93 10,Urmakare
+1163,Idéutvecklarna AB,1,Bettorpsgatan 10,70369,Örebro,info@yhsky.se,105855850,"Congress, Conference & Meeting Professional - PCO"
+1164,Gislaveds Kommun Vuxenutbildningen /Hph,1,Gislegatan 1,33233,Gislaved,camilla.m.johansson@edu.gislaved.se,0371-81900,Underhållstekniker inom automatiserad tillverkningsindustri
+1165,Hermods AB Kristianstad,1,Box 213,10124,Stockholm,yh@hermods.se,08-41025100,Underhållsingenjör – Smart Maintenance
+1166,Hudiksvall kommun CUL,1,Kullgatan 6-8 Gunilla Svensson,82430,Hudiksvall,gunilla.svensson@hudiksvall.se,0650-19000,Socialpedagog
+1167,Hushållningssällskapet Kalmar Kronoberg Blekinge - Gamlebygymnasiet,1,Gamlebygymnasiet,59432,Gamleby,info.h@hushallningssallskapet.se,0493-14200,Småskalig affärsmässig livsmedelsproduktion med fokus på hållbarhet
+1168,Hyper Island Program AB - Karlskrona,1,Bastionsgatan 8,37132,Karlskrona,myhinfo@hyperisland.com,0455-307777,Business Developer
+1169,"Forshaga kommun, Forshaga Yrkeshögskola",1,Box 93,66722,Forshaga,yrkeshogskola@forshaga.se,054-17 20 00,Specialistundersköterska inom vård och omsorg av äldre
+1170,ForshagaAkademin AB,1,Industrileden 5 B,66732,Forshaga,info@forshagaakademin.se,054-536100,Fiske- och jaktguide
+1171,"Markaryds kommun, Lärcentrum Markaryd",1,Box 74,28522,Markaryd,vuxenutbildningen@markaryd.se,0433-72251,Värmepumpstekniker
+1172,Linköpings kommun,1,Utbildningsförvaltningen,58181,Linköping,per.westerholm@utb.linkoping.se,013-262328,Flygtekniker
+1173,Medborgarskolan Syd,1,"Limhamns Folkets Hus, Linnegatan 61",21614,Limhamn,region.syd@medborgarskolan.se,0752-416850,"Ljud-, ljus och scentekniker"
+1174,Mora kommun,1,Mora gymnaisum,79280,Mora,gymnasieforvaltningen@mora.se,0250- 26 000,Robot- och CNC-tekniker
+1175,Movant AB,1,Box 2546,40317,Göteborg,epost@movant.se,317035220,VVS-tekniker Malmö/Lund
+1176,Medborgarskolan i Stockholm - Påhlmans Handelsinstitut,1,Box 191 93,10432,Stockholm,info@phi.se,101576441,Paralegal
+1177,Lunds universitet Trafikflyghögskolan,1,Drottningvägen 5,26451,Ljungbyhed,tfhs@tfhs.lu.se,0435-445400,Integrerad trafikflygarutbildning
+1178,Omsorgsförlaget,1,Järnvägsgatan 31,81230,Storvik,info@omsorgsforlaget.se,738611300,Stödpedagog inom funktionshinderområdet
+1179,Nätverkstan Kultur AB,1,Box 31120,40032,Göteborg,karin.dalborg@natverkstan.net,031-7439908,Kulturverkstan - Internationell kulturprojektledare
+1180,Nybro kommun,1,Dunderbergsgatan 2,38280,Nybro,fredrik.blad@nybro.se,0481- 450 00,Design och konstglas
+1181,Osby kommun - Osby Lärcenter/Vuxenutbildningen och Ekbackeskolan,1,Osby Kommun,28380,Osby,marie.olsson@osby.se,0479-528534,Certifierad svetsare med kvalificerad kompetens
+1182,Ocellus Information Systems AB,1,Box 1986,75149,Uppsala,rene.escalier@ocellus.se,018-422676,Mobila System och GIT
+1183,Origo Academy,1,Uppsala,75320,Uppsala,rodi@origoacademy.se,722355557,Sprinklerprojektör
+1184,Nordiskt FlygTeknikCentrum Aktiebolag,1,Luftfartsvägen 11,97254,Luleå,info@nftc.se,0920-232164,Flygtekniker-helikopter
+1185,Stiftelsen Hantverk & Utbildning - Hantverkslärling,1,Box 147,79323,Leksand,info@hantverkslarling.se,0247-36950,Hantverkslärling
+1186,Stiftelsen Capellagården,1,Vickleby Bygata 25,38693,Färjestaden,rektor@capellagarden.se,48536132,Förvaltning av kulturhistoriskt värdefulla trädgårdsanläggningar
+1187,"Stenungsunds kommun, Vuxenutbildningen",1,Strandvägen 15,44482,Stenungsund,linda.kvarsell-hulten@stenungsund.se,0303-738650,Drifttekniker kemisk industri
+1188,Restaurangakademien AB,1,Rökerigatan 4,12162,Johanneshov,info@restaurangakademien.se,08-7880360,Internationell Sommelier - Matsalsschef
+1189,Ronneby Flygteknikutbildning,1,Ronneby,37280,Ronneby,magnus.magnusson@edu.ronneby.se,46721728818,Flygtekniker flygplan/helikopter
+1190,Resurs Applikation Process System i Skåne AB,1,Spegelgatan 1,26147,Landskrona,pno@raps.se,708147400,3D-printingspecialist
+1191,"Sandvikens kommun, Yrkeshögskolan",1,Persvägen 6,81161,Sandviken,arbetslivsnamnden@sandviken.se,026-24 00 00,Produktionstekniker - CNC/3D
+1192,Roslagens Yrkesutbildning AB,1,Rävgaddsvägen 1,76197,Norrtälje,info@ryab.se,0731-759452,Arborist
+1193,Nyköpings kommun - Flygteknik technical training,1,General Schybergs väg 12-14,61192,Nyköping,bjorn.axelsson@nykoping.se,0155-248987,Flygtekniker / El- och Avioniktekniker
+1194,Stiftelsen Nordens Biskops-Arnö,1,Biskopsarnövägen 30,74693,Bålsta,info@biskopsarno.se,0171-826 70,"Bildjournalist, yrkesfotograf - fotografi och rörlig bild"
+1195,Technigo AB,1,Åsögatan 122,11624,Stockholm,hello@technigo.io,46723610211,JavaScript Development
+1196,Säters kommun,1,Box 300,78327,Säter,kommun@sater.se,462255000,Specialistundersköterska inom psykiatrisk verksamhet
+1197,SYAB Gruppen AB,1,Hangarvägen 8,39241,Kalmar,info@syab.se,0480-13740,Trafiklärare
+1198,Stiftelsen Sadelmakeriskolan i Tärnsjö,1,Södra Storgatan 2 C,74045,Tärnsjö,info@sadelmakeriskolan.se,0292-50187,Sadelmakare
+1199,Stockholms Trafiklärarutbildning,1,Värmdövägen 108,13160,Nacka,info@stlu.se,08-7180102,Trafiklärare
+1200,Svensk Pilotutbildning AB,1,Göteborg City Airport,42373,Säve,info@svenskpilotutbildning.se,031-925505,Integrerad Helikopterpilotutbildning
+1201,Trelleborgs kommun,1,Box 20,23121,Trelleborg,yrk.yh@trelleborg.se,0410-733000,Vätgas
+1202,Torsta AB,1,Ösavägen 20,83694,Ås,helen.axelsson@torsta.se,0640-18800,"Mathantverkare – hantverksbagare, hantverkscharkuterist eller hantverksmejerist"
+1203,Västerbergslagens utbildningsförbund - Teknik,1,Box 830,77128,Ludvika,info@vbu.ludvika.se,0240-86500,Bryggeriteknik
+1204,Väddö folkhögskola,1,Grisslehamnsvägen 28,76431,Väddö,info@vaddo.fhsk.se,0176-520800,Akvaponiingenjör
+1205,Wången AB,1,Vången 110,83593,Alsen,info@wangen.se,0640-17400,Kuskutbildningen i Brukshästkörning
+1206,"Vilhelmina kommun, Vilhelmina Lärcentrum",1,Skolgatan 12,91281,Vilhelmina,larcentrum@vilhelmina.se,0940-140 00,Vindkraftstekniker
+1207,Vetlanda kommun Vetlanda Lärcentrum,1,Kyrkogatan 54a,57431,Vetlanda,vetlanda.larcentrum@vetlanda.se,0383-97600,Produktionstekniker med inriktning hållbar industri
+1208,Vansbro kommun/Lärcentrum Vansbro,1,Kommunalkontoret,78050,Vansbro,larcentrum@vansbro.se,0281-75275,Nordisk Spårsvetsare
+1209,Träteknikerutbildning i Hammarö AB,1,Vedspelsvägen 5B,66334,Skoghall,jorgen@ttuhammaro.se,46705660558,Trätekniker
+1210,"Värmdö kommun, Komvux Värmdö",1,Gustavsberg,13481,Gustavsberg,jennie.nilsson@varmdo.se,08-57048331,Trafiklärarutbildning
+1211,"Vännäs kommun, Liljaskolan",1,Västra Järnvägsgatan 9,91134,Vännäs,pat.friberg@vannas.se,0935-14500,Trafiklärare
+1212,XeDrix AB,1,Torpa Stenäng 1,35593,Växjö,stefan.gustavsson@xedrix.se,070-6019573,Processtekniker - smart industri
+1213,Västerbo Social Omsorg AB,1,Stora Nygatan 59,21137,Malmö,annina.hohenthal@vaster-bo.se,733687687,Socialpedagog
+1214,Ålsta Folkhögskola - Region Västernorrland,1,Fränstavägen 209,84012,Fränsta,daniel.gafforelli@rvn.se,0691-661400,Scentekniker för teater och turné
+1215,"Älmhults kommun, Haganässkolan",1,Box 501,34323,Älmhult,haganasskolan@almhult.se,0476-550 00,Förpackningsingenjör Packaging Solution Engineer - miljö och hållbarhet
+1216,Östergötlands läns landsting - Vreta utbildingscentrum,1,Järngården 3,59076,Vreta Kloster,eva-lena.klofsten@regionostergotland.se,013-201073,Ridlärare
